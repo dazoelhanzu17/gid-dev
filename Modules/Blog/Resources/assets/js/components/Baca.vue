@@ -48,7 +48,7 @@
           loadBlog(){
 
               this.$Progress.start()
-              axios.get('http://localhost:8000/api/blog/1/read')
+              axios.get('http://localhost:8000/api/blog/'+this.$route.query.id+'/read')
               .then(({ data }) => {
                 
                 this.blog = data.data ;

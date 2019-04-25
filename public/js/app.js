@@ -1950,7 +1950,7 @@ __webpack_require__.r(__webpack_exports__);
       var _this = this;
 
       this.$Progress.start();
-      axios.get('http://localhost:8000/api/blog/1/read').then(function (_ref) {
+      axios.get('http://localhost:8000/api/blog/' + this.$route.query.id + '/read').then(function (_ref) {
         var data = _ref.data;
         _this.blog = data.data;
 
@@ -21712,6 +21712,8 @@ window.axios = __webpack_require__(/*! axios */ "./node_modules/axios/index.js")
  */
 // const files = require.context('./', true, /\.vue$/i);
 // files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default));
+// Vue.component(HasError.name, HasError)
+// Vue.component(AlertError.name, AlertError)
 
 Vue.use(vue_router__WEBPACK_IMPORTED_MODULE_0__["default"]);
 var routes = [{
