@@ -8,7 +8,7 @@
                      <div class="mb-4">
                       <div class="mb-3 text-center">
                         <a href="#" class="d-inline-block">
-                          <img  :src= "blog.file_foto" class="img-fluid" alt="">
+                          <img alt="" class="img-fluid" src="images/blog_post/1556081622hello-world-4k-0o.jpg">
                         </a>
                       </div>
 
@@ -30,7 +30,6 @@
                     </div>
 
                     </div>
-                      
                  
                 </div>
 </template>
@@ -46,20 +45,17 @@
         methods: {
           
           loadBlog(){
-
               this.$Progress.start()
-              axios.get('http://localhost:8000/api/blog/'+this.$route.query.id+'/read')
+              axios.get('http://localhost:8000/api/berita/'+this.$route.query.id+'/baca')
               .then(({ data }) => {
                 
                 this.blog = data.data ;
                 this.$Progress.finish()
-                
               })
               .catch(() => {
                 this.$Progress.fail();
               })
           
-
           },
         },
         mounted() {

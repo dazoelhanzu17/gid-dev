@@ -20,4 +20,4 @@ Route::middleware('auth:api')->get('/blog', function (Request $request) {
 
 Route::get('/blogs', 'API\BlogApiController@index');
 
-Route::get('/blog/{id}/read', 'API\BlogApiController@show');
+Route::get('/berita/{id}/baca', 'API\BlogApiController@show');

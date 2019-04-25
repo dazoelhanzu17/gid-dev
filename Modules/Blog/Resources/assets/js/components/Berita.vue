@@ -57,10 +57,8 @@
               this.$Progress.start()
               axios.get("api/blogs")
               .then(({ data }) => {
-                
                 this.blogs = data.data ;
                 this.$Progress.finish()
-                
               })
               .catch(() => {
                 this.$Progress.fail();

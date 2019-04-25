@@ -1937,7 +1937,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -1950,7 +1949,7 @@ __webpack_require__.r(__webpack_exports__);
       var _this = this;
 
       this.$Progress.start();
-      axios.get('http://localhost:8000/api/blog/' + this.$route.query.id + '/read').then(function (_ref) {
+      axios.get('http://localhost:8000/api/berita/' + this.$route.query.id + '/baca').then(function (_ref) {
         var data = _ref.data;
         _this.blog = data.data;
 
@@ -5538,14 +5537,7 @@ var render = function() {
   return _c("div", { staticClass: "card blog-horizontal blog-horizontal-xs" }, [
     _c("div", { staticClass: "card-body" }, [
       _c("div", { staticClass: "mb-4" }, [
-        _c("div", { staticClass: "mb-3 text-center" }, [
-          _c("a", { staticClass: "d-inline-block", attrs: { href: "#" } }, [
-            _c("img", {
-              staticClass: "img-fluid",
-              attrs: { src: _vm.blog.file_foto, alt: "" }
-            })
-          ])
-        ]),
+        _vm._m(0),
         _vm._v(" "),
         _c("h4", { staticClass: "font-weight-semibold mb-1" }, [
           _c("a", { staticClass: "text-default", attrs: { href: "#" } }, [
@@ -5568,9 +5560,9 @@ var render = function() {
               _vm._v(_vm._s(_vm.blog.created_at))
             ]),
             _vm._v(" "),
-            _vm._m(0),
+            _vm._m(1),
             _vm._v(" "),
-            _vm._m(1)
+            _vm._m(2)
           ]
         ),
         _vm._v(" "),
@@ -5582,6 +5574,22 @@ var render = function() {
   ])
 }
 var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "mb-3 text-center" }, [
+      _c("a", { staticClass: "d-inline-block", attrs: { href: "#" } }, [
+        _c("img", {
+          staticClass: "img-fluid",
+          attrs: {
+            alt: "",
+            src: "images/blog_post/1556081622hello-world-4k-0o.jpg"
+          }
+        })
+      ])
+    ])
+  },
   function() {
     var _vm = this
     var _h = _vm.$createElement
