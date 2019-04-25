@@ -1937,6 +1937,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -5534,62 +5536,55 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "card blog-horizontal blog-horizontal-xs" }, [
-    _c("div", { staticClass: "card-body" }, [
-      _c("div", { staticClass: "mb-4" }, [
-        _vm._m(0),
-        _vm._v(" "),
-        _c("h4", { staticClass: "font-weight-semibold mb-1" }, [
-          _c("a", { staticClass: "text-default", attrs: { href: "#" } }, [
-            _vm._v(_vm._s(_vm.blog.blog_name))
+  return _c("div", { staticClass: "col-md-6 offset-md-3" }, [
+    _c("div", { staticClass: "card blog-horizontal blog-horizontal-xs" }, [
+      _c("div", { staticClass: "card-body" }, [
+        _c("div", { staticClass: "mb-4" }, [
+          _c("div", { staticClass: "mb-3 text-center" }, [
+            _c("a", { staticClass: "d-inline-block", attrs: { href: "#" } }, [
+              _c("img", {
+                staticClass: "img-fluid",
+                attrs: { alt: "", src: "/" + _vm.blog.file_foto }
+              })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("h4", { staticClass: "font-weight-semibold mb-1" }, [
+            _c("a", { staticClass: "text-default", attrs: { href: "#" } }, [
+              _vm._v(_vm._s(_vm.blog.blog_name))
+            ])
+          ]),
+          _vm._v(" "),
+          _c(
+            "ul",
+            { staticClass: "list-inline list-inline-dotted text-muted mb-3" },
+            [
+              _c("li", { staticClass: "list-inline-item" }, [
+                _vm._v("By "),
+                _c("a", { staticClass: "text-muted", attrs: { href: "#" } }, [
+                  _vm._v(_vm._s(_vm.blog.create_author))
+                ])
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "list-inline-item" }, [
+                _vm._v(_vm._s(_vm.blog.created_at))
+              ]),
+              _vm._v(" "),
+              _vm._m(0),
+              _vm._v(" "),
+              _vm._m(1)
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticClass: "mb-3" }, [
+            _c("p", { domProps: { innerHTML: _vm._s(_vm.blog.blog_desc) } })
           ])
-        ]),
-        _vm._v(" "),
-        _c(
-          "ul",
-          { staticClass: "list-inline list-inline-dotted text-muted mb-3" },
-          [
-            _c("li", { staticClass: "list-inline-item" }, [
-              _vm._v("By "),
-              _c("a", { staticClass: "text-muted", attrs: { href: "#" } }, [
-                _vm._v(_vm._s(_vm.blog.create_author))
-              ])
-            ]),
-            _vm._v(" "),
-            _c("li", { staticClass: "list-inline-item" }, [
-              _vm._v(_vm._s(_vm.blog.created_at))
-            ]),
-            _vm._v(" "),
-            _vm._m(1),
-            _vm._v(" "),
-            _vm._m(2)
-          ]
-        ),
-        _vm._v(" "),
-        _c("div", { staticClass: "mb-3" }, [
-          _c("p", { domProps: { innerHTML: _vm._s(_vm.blog.blog_desc) } })
         ])
       ])
     ])
   ])
 }
 var staticRenderFns = [
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "mb-3 text-center" }, [
-      _c("a", { staticClass: "d-inline-block", attrs: { href: "#" } }, [
-        _c("img", {
-          staticClass: "img-fluid",
-          attrs: {
-            alt: "",
-            src: "images/blog_post/1556081622hello-world-4k-0o.jpg"
-          }
-        })
-      ])
-    ])
-  },
   function() {
     var _vm = this
     var _h = _vm.$createElement
@@ -5633,77 +5628,83 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "card blog-horizontal blog-horizontal-xs" }, [
-    _c("div", { staticClass: "card-header" }, [_vm._v("Example Component")]),
-    _vm._v(" "),
-    _c(
-      "div",
-      { staticClass: "card-body" },
-      _vm._l(_vm.blogs.data, function(blog) {
-        return _c("div", { key: blog.id }, [
-          _c("div", { staticClass: "card-img-actions mr-3" }, [
-            _c("img", {
-              staticClass: "card-img img-fluid",
-              attrs: { src: blog.file_foto, alt: "" }
-            }),
+  return _c("div", { staticClass: "col-md-12" }, [
+    _c("div", { staticClass: "card blog-horizontal blog-horizontal-xs" }, [
+      _c("div", { staticClass: "card-header" }, [_vm._v("Example Component")]),
+      _vm._v(" "),
+      _c(
+        "div",
+        { staticClass: "card-body" },
+        _vm._l(_vm.blogs.data, function(blog) {
+          return _c("div", { key: blog.id }, [
+            _c("div", { staticClass: "card-img-actions mr-3" }, [
+              _c("img", {
+                staticClass: "card-img img-fluid",
+                attrs: { src: blog.file_foto, alt: "" }
+              }),
+              _vm._v(" "),
+              _vm._m(0, true)
+            ]),
             _vm._v(" "),
-            _vm._m(0, true)
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "mb-3" }, [
-            _c(
-              "h5",
-              { staticClass: "font-weight-semibold my-1" },
-              [
-                _c(
-                  "router-link",
-                  {
-                    staticClass: "text-default",
-                    attrs: { to: "/berita/baca?id=" + blog.id }
-                  },
-                  [_vm._v(_vm._s(blog.blog_name))]
-                )
-              ],
-              1
-            ),
-            _vm._v(" "),
-            _c(
-              "ul",
-              { staticClass: "list-inline list-inline-dotted text-muted mb-0" },
-              [
-                _c("li", { staticClass: "list-inline-item" }, [
-                  _vm._v("By "),
-                  _c("a", { staticClass: "text-muted", attrs: { href: "#" } }, [
-                    _vm._v(_vm._s(blog.create_author))
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("li", { staticClass: "list-inline-item" }, [
-                  _vm._v(_vm._s(blog.created_at))
-                ]),
-                _vm._v(" "),
-                _vm._m(1, true)
-              ]
-            ),
-            _vm._v(" "),
-            _c("p", { domProps: { innerHTML: _vm._s(blog.blog_desc) } })
+            _c("div", { staticClass: "mb-3" }, [
+              _c(
+                "h5",
+                { staticClass: "font-weight-semibold my-1" },
+                [
+                  _c(
+                    "router-link",
+                    {
+                      staticClass: "text-default",
+                      attrs: { to: "/berita/baca?id=" + blog.id }
+                    },
+                    [_vm._v(_vm._s(blog.blog_name))]
+                  )
+                ],
+                1
+              ),
+              _vm._v(" "),
+              _c(
+                "ul",
+                {
+                  staticClass: "list-inline list-inline-dotted text-muted mb-0"
+                },
+                [
+                  _c("li", { staticClass: "list-inline-item" }, [
+                    _vm._v("By "),
+                    _c(
+                      "a",
+                      { staticClass: "text-muted", attrs: { href: "#" } },
+                      [_vm._v(_vm._s(blog.create_author))]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("li", { staticClass: "list-inline-item" }, [
+                    _vm._v(_vm._s(blog.created_at))
+                  ]),
+                  _vm._v(" "),
+                  _vm._m(1, true)
+                ]
+              ),
+              _vm._v(" "),
+              _c("p", { domProps: { innerHTML: _vm._s(blog.blog_desc) } })
+            ])
           ])
-        ])
-      }),
-      0
-    ),
-    _vm._v(" "),
-    _c(
-      "div",
-      { staticClass: "card-footer" },
-      [
-        _c("pagination", {
-          attrs: { data: _vm.blogs },
-          on: { "pagination-change-page": _vm.getResults }
-        })
-      ],
-      1
-    )
+        }),
+        0
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        { staticClass: "card-footer" },
+        [
+          _c("pagination", {
+            attrs: { data: _vm.blogs },
+            on: { "pagination-change-page": _vm.getResults }
+          })
+        ],
+        1
+      )
+    ])
   ])
 }
 var staticRenderFns = [

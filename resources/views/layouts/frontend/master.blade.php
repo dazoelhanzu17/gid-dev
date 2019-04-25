@@ -145,12 +145,12 @@
 
 					<div class="container-fluid">
 							<div class="row">
-									<div class="col-lg-12">
+								
 
 											<router-view></router-view>
 											<vue-progress-bar></vue-progress-bar>
 												
-									</div>
+									
 							</div>
 					</div>
 			</div>

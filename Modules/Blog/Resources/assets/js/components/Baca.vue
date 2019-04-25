@@ -1,5 +1,5 @@
 <template>
-    
+          <div class="col-md-6 offset-md-3">
                 <div class="card blog-horizontal blog-horizontal-xs">
                     <!-- <div class="card-header">Example Component</div> -->
 
@@ -8,7 +8,8 @@
                      <div class="mb-4">
                       <div class="mb-3 text-center">
                         <a href="#" class="d-inline-block">
-                          <img alt="" class="img-fluid" src="images/blog_post/1556081622hello-world-4k-0o.jpg">
+                          <img alt="" class="img-fluid" :src="'/'+blog.file_foto">
+                          
                         </a>
                       </div>
 
@@ -32,6 +33,7 @@
                     </div>
                  
                 </div>
+        </div>
 </template>
 
 <script>

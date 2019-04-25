@@ -1,5 +1,5 @@
 <template>
-   
+          <div class="col-md-12">
                 <div class="card blog-horizontal blog-horizontal-xs">
                     <div class="card-header">Example Component</div>
 
@@ -36,7 +36,7 @@
                     <pagination :data="blogs" @pagination-change-page="getResults"></pagination>
                   </div>
                 </div>
-            
+            </div>
 </template>
 
 <script>
