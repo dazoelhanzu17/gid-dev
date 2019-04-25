@@ -17,38 +17,38 @@
 
 
 Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function(){
-    Route::get('/berita', [
-        'as'  => 'berita.index',
-        'uses'  => 'BeritaController@index'
-    ]);
+    // Route::get('/berita', [
+    //     'as'  => 'berita.index',
+    //     'uses'  => 'BeritaController@index'
+    // ]);
 
 
-    Route::get('/berita/create', [
-        'as'    => 'berita.create',
-        'uses'  => 'BeritaController@create'
-    ]);
+    // Route::get('/berita/create', [
+    //     'as'    => 'berita.create',
+    //     'uses'  => 'BeritaController@create'
+    // ]);
 
-    Route::post('/berita/store', [
-        'as'    => 'berita.store',
-        'uses'  => 'BeritaController@store'
-    ]);
+    // Route::post('/berita/store', [
+    //     'as'    => 'berita.store',
+    //     'uses'  => 'BeritaController@store'
+    // ]);
 
-    Route::post('/berita/delete/{id}', [
-        'as'    => 'berita.delete',
-        'uses'  => 'BeritaController@destroy'
-    ]);
+    // Route::post('/berita/delete/{id}', [
+    //     'as'    => 'berita.delete',
+    //     'uses'  => 'BeritaController@destroy'
+    // ]);
 
-    Route::post('/berita/update/{id}', [
-        'as'    => 'berita.update',
-        'uses'  => 'BeritaController@update'
-    ]);
+    // Route::post('/berita/update/{id}', [
+    //     'as'    => 'berita.update',
+    //     'uses'  => 'BeritaController@update'
+    // ]);
     
  
 
-    Route::get('/berita/{id}/edit', [
-        'as'    => 'berita.edit',
-        'uses'  => 'BeritaController@edit'
-    ]);
+    // Route::get('/berita/{id}/edit', [
+    //     'as'    => 'berita.edit',
+    //     'uses'  => 'BeritaController@edit'
+    // ]);
 
 
 

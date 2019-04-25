@@ -1,19 +1,14 @@
 <?php
 
-namespace Modules\Homepage\Http\Controllers;
+namespace Modules\Blog\Http\Controllers\API;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Routing\Controller;
-// use Modules\Berita\Entities\Berita;
-// use Modules\Berita\Entities\Comment;
-// use GuzzleHttp\Client;
+use Modules\Blog\Entities\Blog;
+use App\Http\Controllers\API\BaseApiController as BaseController;
 
-use Illuminate\Support\Facades\DB;
-
-
-
-class HomepageController extends Controller
+class BlogApiController extends BaseController
 {
     /**
      * Display a listing of the resource.
@@ -21,20 +16,8 @@ class HomepageController extends Controller
      */
     public function index()
     {
-        // $client = new Client([
-        //     'exceptions' => false, 
-        //     'CURLOPT_SSL_VERIFYPEER' => false, 
-        //     'CURLOPT_SSL_VERIFYHOST' => false
-        //     'base_uri'  => 'http://localhost:8000'
-        // ]);
-        
-        // $response = $client->request('GET', '/api/blogs');
-        // echo $response->getStatusCode(); # 200
-        // echo $response->getHeaderLine('content-type'); # 'application/json; charset=utf8'
-        // echo $response->getBody(); # '{"id": 1420053, "name": "guzzle", ...}'
-
-        return view('homepage::index');
-        
+        $blogs = Blog::with('blog_categories')->paginate(1);
+        return $this->sendResponse($blogs->toArray(), 'Blog Retrieved successfully');
     }
 
     /**
@@ -43,7 +26,7 @@ class HomepageController extends Controller
      */
     public function create()
     {
-        return view('homepage::create');
+        return view('blog::create');
     }
 
     /**
@@ -63,9 +46,13 @@ class HomepageController extends Controller
      */
     public function show($id)
     {
-        $berita = Berita::findOrFail($id);
-        // return view('homepage::baca')->with('berita', $berita)->with('comments', DB::table('comments')->where('id_berita', '=', $id)->get());
-        return view('homepage::baca')->with('berita', $berita)->with('comments', Berita::findOrFail($id)->comments);
+        $blog = Blog::findOrFail($id);
+
+        if(is_null($blog)){
+            return $this->sendError('Blog not found.');
+        }
+
+        return $this->sendResponse($blog->toArray(), 'Post retrieved successfully.');
     }
 
     /**
@@ -75,7 +62,7 @@ class HomepageController extends Controller
      */
     public function edit($id)
     {
-        return view('homepage::edit');
+        return view('blog::edit');
     }
 
     /**

@@ -9,6 +9,7 @@
 
 window.Vue = require('vue');
 import VueRouter from 'vue-router';
+import VueProgressBar from 'vue-progressbar';
 window.axios = require('axios');
 
 /**
@@ -30,6 +31,19 @@ let routes = [
          path: '/admin/developer', 
          component: require('./components/Developer.vue').default
     },
+
+    {
+        path: '/berita', 
+        component: require('../../Modules/Blog/Resources/assets/js/components/Berita.vue').default
+    },
+
+    {
+        path: '/berita/baca', 
+        name: 'baca',
+        props: true,
+        component: require('../../Modules/Blog/Resources/assets/js/components/Baca.vue').default
+    },
+    
     
   ]
 
@@ -39,9 +53,16 @@ const router = new VueRouter({
 })
 
 
+Vue.use(VueProgressBar, {
+    color: 'rgb(143, 255, 199)',
+    failedColor: 'red',
+    height: '5px'
+});
+
 window.Fire = new Vue;
 Vue.component('example-component', require('./components/ExampleComponent.vue').default);
 
+Vue.component('pagination', require('laravel-vue-pagination'));
 
 Vue.component(
     'passport-clients',
@@ -57,6 +78,8 @@ Vue.component(
     'passport-personal-access-tokens',
     require('./components/passport/PersonalAccessTokens.vue').default
 );
+
+
 /**
  * Next, we will create a fresh Vue application instance and attach it to
  * the page. Then, you may begin adding components to this application

@@ -20,5 +20,10 @@ class Blog extends Model
         'sys_user_name'
     ];
 
+
+    public function blog_categories(){
+        return $this->hasMany('Modules\BlogCategory\Entities\BlogCategory', 'id', 'category');
+    }
+
     
 }

@@ -13,4 +13,9 @@ class BlogCategory extends Model
         $kategori = BlogCategory::where('id', $id_blog)->first();
         return !empty($kategori->nama)?$kategori->nama:null;
     }
+
+
+    public function blog(){
+        return $this->belongsTo('Modules\Blog\Entities\Blog');
+    }
 }

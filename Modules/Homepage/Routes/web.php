@@ -16,6 +16,9 @@
 // });
 
 
-Route::get('/', 'HomepageController@index')->name('homepage');
+// Route::get('/', 'HomepageController@index')->name('homepage');
 
 Route::get('berita/{id}', 'HomepageController@show')->name('berita.baca');
+
+
+

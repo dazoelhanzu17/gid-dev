@@ -32,3 +32,8 @@ Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function(){
 });
 
 
+Route::get('/{any?}', function () {
+    return view('vue_app');
+})->where('/any', '[\/\w\.-]*');
+
+// Route::get('{path}', 'HomeController@index')->where( 'path', '([A-z\d-\/_.]+)?');

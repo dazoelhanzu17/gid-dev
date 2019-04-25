@@ -49,13 +49,13 @@ class BlogController extends Controller
      */
     public function create()
     {
-        if(get_role(Auth::user()->id_user_group)['insert'] != 'FALSE'){
+        // if(get_role(Auth::user()->id_user_group)['insert'] != 'FALSE'){
             return view('blog::create_edit')
                 ->with('categories', BlogCategory::all())
                 ->with('route', route('cms.blog.store'));
-        }else{
-            return redirect('forbidden');   
-        }
+        // }else{
+        //     return redirect('forbidden');   
+        // }
     }
 
     /**
@@ -112,15 +112,15 @@ class BlogController extends Controller
      */
     public function edit($id)
     {
-        if(get_role(Auth::user()->id_user_group)['update'] != 'FALSE'){
+        // if(get_role(Auth::user()->id_user_group)['update'] != 'FALSE'){
             $blog = Blog::findOrFail($id);
             return view('blog::create_edit')
                             ->with('blog', $blog)
                             ->with('categories', BlogCategory::all())
                             ->with('route', route('cms.blog.update', ['id' => $id]));
-        }else{
-            return view('forbidden');
-        }
+        // }else{
+        //     return view('forbidden');
+        // }
     }
 
     /**

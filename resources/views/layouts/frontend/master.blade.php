@@ -32,7 +32,7 @@
 </head>
 
 <body>
-
+	<div id="app">
 	<!-- Main navbar -->
 	<div class="navbar navbar-expand-md navbar-dark">
 		<div class="navbar-brand">
@@ -82,6 +82,55 @@
 			</ul>
 		</div>
 	</div>
+
+	<div class="navbar navbar-expand-md navbar-light">
+		<div class="text-center d-md-none w-100">
+			<button type="button" class="navbar-toggler dropdown-toggle" data-toggle="collapse" data-target="#navbar-navigation">
+				<i class="icon-unfold mr-2"></i>
+				Navigation
+			</button>
+		</div>
+
+		<div class="navbar-collapse collapse" id="navbar-navigation">
+			<ul class="navbar-nav">
+				<li class="nav-item">
+					<a href="index.html" class="navbar-nav-link">
+						<i class="icon-newspaper mr-2"></i>
+						Page
+					</a>
+				</li>
+
+				<li class="nav-item">
+					<router-link to="/berita" class="navbar-nav-link">
+						<i class="icon-newspaper mr-2"></i>
+						<span>
+							Berita
+						</span>
+					</router-link>
+				</li>
+
+			
+
+			
+			</ul>
+		</div>
+	</div>
+
+	{{-- <div class="page-header">
+		<div class="page-header-content header-elements-md-inline">
+			<div class="page-title d-flex">
+				<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold"></span>Homepage</h4>
+				<a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
+			</div>
+
+			<div class="header-elements d-none py-0 mb-3 mb-md-0">
+				<div class="breadcrumb">
+					<a href="index.html" class="breadcrumb-item"><i class="icon-home2 mr-2"></i></a>
+					<span class="breadcrumb-item active">Homepage</span>
+				</div>
+			</div>
+		</div>
+	</div> --}}
 	<!-- /main navbar -->
 
 
@@ -92,21 +141,17 @@
 		<div class="content-wrapper">
 
 			<!-- Content area -->
-			<div class="content">
+			<div class="content">		
 
-				<!-- Container -->
-				{{-- <div class="flex-fill"> --}}
+					<div class="container-fluid">
+							<div class="row">
+									<div class="col-lg-12">
 
-				
-
-
-					<!-- Error content -->
-				@yield('content')
-					<!-- /error wrapper -->
-
-				{{-- </div> --}}
-				<!-- /container -->
-
+											<router-view></router-view>
+												
+									</div>
+							</div>
+					</div>
 			</div>
 			<!-- /content area -->
 
@@ -125,11 +170,7 @@
 						&copy; 2015 - 2018. 
 					</span>
 
-					{{-- <ul class="navbar-nav ml-lg-auto">
-						<li class="nav-item"><a href="https://kopyov.ticksy.com/" class="navbar-nav-link" target="_blank"><i class="icon-lifebuoy mr-2"></i> Support</a></li>
-						<li class="nav-item"><a href="http://demo.interface.club/limitless/docs/" class="navbar-nav-link" target="_blank"><i class="icon-file-text2 mr-2"></i> Docs</a></li>
-						<li class="nav-item"><a href="https://themeforest.net/item/limitless-responsive-web-application-kit/13080328?ref=kopyov" class="navbar-nav-link font-weight-semibold"><span class="text-pink-400"><i class="icon-cart2 mr-2"></i> Purchase</span></a></li>
-					</ul> --}}
+					</ul>
 				</div>
 			</div>
 			<!-- /footer -->
@@ -137,8 +178,11 @@
 		</div>
 		<!-- /main content -->
 
+		</div>
+		<!-- /page content -->
+		
 	</div>
-	<!-- /page content -->
-
+	@yield('script')
+	<script src="/js/app.js"></script>
 </body>
 </html>
