@@ -41,14 +41,13 @@
         data(){
           return{
             blog: {},
-            urll: "api/blog/"+this.$route.query.id+"/read",
           }
         },
         methods: {
           
           loadBlog(){
               this.$Progress.start()
-              axios.get('http://localhost:8000/api/berita/'+this.$route.query.id+'/baca')
+              axios.get('http://localhost:8000/api/berita/'+this.$route.params.id+'/baca')
               .then(({ data }) => {
                 
                 this.blog = data.data ;
@@ -62,7 +61,7 @@
         },
         mounted() {
             console.log('Component mounted.')
-            console.log(this.urll)
+
         },
 
         created() {

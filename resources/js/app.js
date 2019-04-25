@@ -39,7 +39,7 @@ let routes = [
     },
 
     {
-        path: '/berita/baca', 
+        path: '/berita/baca/:id/:slug', 
         name: 'baca',
         props: true,
         component: require('../../Modules/Blog/Resources/assets/js/components/Baca.vue').default

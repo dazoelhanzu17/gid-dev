@@ -4,7 +4,7 @@
                     <div class="card-header">Example Component</div>
 
                    <div class="card-body">
-                     <div  v-for="blog in blogs.data" :key="blog.id">
+                     <div  v-for="blog in blogs.data" :key="blog.id" :idblog="blog">
                       <div class="card-img-actions mr-3">
                         <img class="card-img img-fluid" :src= "blog.file_foto" alt="">
                         <div class="card-img-actions-overlay card-img">
@@ -16,7 +16,11 @@
 
                       <div class="mb-3">
                         <h5 class="font-weight-semibold my-1">
-                          <router-link :to="`/berita/baca?id=${blog.id}`" class="text-default">{{ blog.blog_name }}</router-link>
+                          <!-- <router-link :to="`/berita/baca?id=${blog.id}`"  class="text-default">{{ blog.blog_name }}</router-link> -->
+
+                          <router-link :to="{ name: 'baca', params: {id: blog.id, slug: blog.post_slug } }"  class="text-default">{{ blog.blog_name }}</router-link>
+
+                          
                          
                         </h5>
 
@@ -41,8 +45,10 @@
 
 <script>
     export default {
+    
         data(){
           return{
+            
             blogs: {},
           }
         },

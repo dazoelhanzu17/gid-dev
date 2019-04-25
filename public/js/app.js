@@ -1942,8 +1942,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
-      blog: {},
-      urll: "api/blog/" + this.$route.query.id + "/read"
+      blog: {}
     };
   },
   methods: {
@@ -1951,7 +1950,7 @@ __webpack_require__.r(__webpack_exports__);
       var _this = this;
 
       this.$Progress.start();
-      axios.get('http://localhost:8000/api/berita/' + this.$route.query.id + '/baca').then(function (_ref) {
+      axios.get('http://localhost:8000/api/berita/' + this.$route.params.id + '/baca').then(function (_ref) {
         var data = _ref.data;
         _this.blog = data.data;
 
@@ -1963,7 +1962,6 @@ __webpack_require__.r(__webpack_exports__);
   },
   mounted: function mounted() {
     console.log('Component mounted.');
-    console.log(this.urll);
   },
   created: function created() {
     var _this2 = this;
@@ -1986,6 +1984,10 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
 //
 //
 //
@@ -5636,7 +5638,7 @@ var render = function() {
         "div",
         { staticClass: "card-body" },
         _vm._l(_vm.blogs.data, function(blog) {
-          return _c("div", { key: blog.id }, [
+          return _c("div", { key: blog.id, attrs: { idblog: blog } }, [
             _c("div", { staticClass: "card-img-actions mr-3" }, [
               _c("img", {
                 staticClass: "card-img img-fluid",
@@ -5655,7 +5657,12 @@ var render = function() {
                     "router-link",
                     {
                       staticClass: "text-default",
-                      attrs: { to: "/berita/baca?id=" + blog.id }
+                      attrs: {
+                        to: {
+                          name: "baca",
+                          params: { id: blog.id, slug: blog.post_slug }
+                        }
+                      }
                     },
                     [_vm._v(_vm._s(blog.blog_name))]
                   )
@@ -21732,7 +21739,7 @@ var routes = [{
   path: '/berita',
   component: __webpack_require__(/*! ../../Modules/Blog/Resources/assets/js/components/Berita.vue */ "./Modules/Blog/Resources/assets/js/components/Berita.vue").default
 }, {
-  path: '/berita/baca',
+  path: '/berita/baca/:id/:slug',
   name: 'baca',
   props: true,
   component: __webpack_require__(/*! ../../Modules/Blog/Resources/assets/js/components/Baca.vue */ "./Modules/Blog/Resources/assets/js/components/Baca.vue").default
