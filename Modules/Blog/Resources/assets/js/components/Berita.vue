@@ -19,9 +19,6 @@
                           <!-- <router-link :to="`/berita/baca?id=${blog.id}`"  class="text-default">{{ blog.blog_name }}</router-link> -->
 
                           <router-link :to="{ name: 'baca', params: {id: blog.id, slug: blog.post_slug } }"  class="text-default">{{ blog.blog_name }}</router-link>
-
-                          
-                         
                         </h5>
 
                         <ul class="list-inline list-inline-dotted text-muted mb-0">
