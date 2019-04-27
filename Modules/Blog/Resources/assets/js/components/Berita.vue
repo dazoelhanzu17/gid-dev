@@ -47,6 +47,7 @@
           return{
             
             blogs: {},
+            loader: this.$loading.show(),
           }
         },
         methods: {
@@ -57,14 +58,14 @@
               });
           },
           loadBlogs(){
-              this.$Progress.start()
+              this.loader;              
               axios.get("api/blogs")
               .then(({ data }) => {
                 this.blogs = data.data ;
-                this.$Progress.finish()
+                this.$loading.hide();
               })
               .catch(() => {
-                this.$Progress.fail();
+                this.loader.hide();
               })
           
 

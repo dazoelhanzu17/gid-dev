@@ -41,20 +41,21 @@
         data(){
           return{
             blog: {},
+            loader: this.$loading.show(),
           }
         },
         methods: {
           
           loadBlog(){
-              this.$Progress.start()
+             this.loader;
               axios.get('http://localhost:8000/api/berita/'+this.$route.params.id+'/baca')
               .then(({ data }) => {
                 
                 this.blog = data.data ;
-                this.$Progress.finish()
+                this.loader.hide();
               })
               .catch(() => {
-                this.$Progress.fail();
+                this.loader.hide();
               })
           
           },

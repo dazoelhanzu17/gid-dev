@@ -145,7 +145,11 @@
 
 					<div class="container-fluid">
 							<div class="row">
-								
+									
+											<div id="menuNav">
+												<p v-html="this.hello"></p>
+											</div>
+										
 
 											<router-view></router-view>
 											<vue-progress-bar></vue-progress-bar>
@@ -184,6 +188,14 @@
 		
 	</div>
 	@yield('script')
+	
 	<script src="/js/app.js"></script>
+
+	<script>
+			new Vue({
+					el: '#menuNav',
+					data: { hello: 'Hello World!' }
+			})
+	</script>
 </body>
 </html>
