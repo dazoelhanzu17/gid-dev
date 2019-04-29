@@ -47,11 +47,15 @@
 			<div class="content d-flex justify-content-center align-items-center">
 
 				<!-- Login form -->
-                <form class="login-form wmin-sm-400" method="POST" action="{{ route('login') }}">
-                    @csrf
+				@isset($url)
+                	<form method="POST" action='{{ url("login$url") }}' aria-label="{{ __('Login') }}">
+				@else
+					<form method="POST" action="{{ route('login') }}" aria-label="{{ __('Login') }}">
+				@endisset
+					@csrf
 					<div class="card mb-0">
 						<ul class="nav nav-tabs nav-justified alpha-grey mb-0">
-							<li class="nav-item"><a href="#login-tab1" class="nav-link border-y-0 border-left-0 active" data-toggle="tab"><h6 class="my-1"><b>SIGN IN</b></h6></a></li>
+							<li class="nav-item"><a href="#login-tab1" class="nav-link border-y-0 border-left-0 active" data-toggle="tab"><h6 class="my-1"><b>{{ isset($url) ? ucwords($url) : ""}} {{ __('Login') }}</b></h6></a></li>
 						</ul>
 						<div class="tab-content card-body">
 							<div class="tab-pane fade show active" id="login-tab1">

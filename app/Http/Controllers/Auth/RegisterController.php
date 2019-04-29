@@ -3,10 +3,12 @@
 namespace App\Http\Controllers\Auth;
 
 use App\User;
+use Modules\LoginPublic\Entities\LoginPublic;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Foundation\Auth\RegistersUsers;
+use Illuminate\Http\Request;
 
 class RegisterController extends Controller
 {
@@ -38,6 +40,8 @@ class RegisterController extends Controller
     public function __construct()
     {
         $this->middleware('guest');
+        $this->middleware('guest:public');
+        $this->middleware('guest:admin');
     }
 
     /**
@@ -61,12 +65,46 @@ class RegisterController extends Controller
      * @param  array  $data
      * @return \App\User
      */
-    protected function create(array $data)
+     protected function createAdmin(Request $request)
+     {
+         $this->validator($request->all())->validate();
+         $user = User::create([
+             'name' => $request['name'],
+             'email' => $request['email'],
+             'password' => Hash::make($request['password']),
+         ]);
+         return redirect()->intended('loginadmin');
+     }
+
+    public function showAdminRegisterForm()
     {
-        return User::create([
-            'name' => $data['name'],
-            'email' => $data['email'],
-            'password' => Hash::make($data['password']),
+        return view('auth.register', ['url' => 'admin']);
+    }
+
+    public function showPublicRegisterForm()
+    {
+        return view('auth.register', ['url' => 'public']);
+    }
+
+    protected function createUsePublic(Request $request)
+    {
+        $this->validator($request->all())->validate();
+        $writer = LoginPublic::create([
+            'name' => $request['name'],
+            'email' => $request['email'],
+            'password' => Hash::make($request['password']),
         ]);
+        return redirect()->intended('login');
+    }
+
+    protected function createAdmin(Request $request)
+    {
+        $this->validator($request->all())->validate();
+        $admin = User::create([
+            'name' => $request['name'],
+            'email' => $request['email'],
+            'password' => Hash::make($request['password']),
+        ]);
+        return redirect()->intended('loginadmin');
     }
 }

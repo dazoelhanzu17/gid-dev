@@ -39,7 +39,7 @@ Vue.use(VueProgressBar, {
 
 Vue.use(Loading, {
     // props
-    color: 'blue',
+    color: 'orange',
     loader: 'dots',
   },{
     // slots

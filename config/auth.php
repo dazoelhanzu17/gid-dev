@@ -46,6 +46,16 @@ return [
             'provider' => 'users',
             // 'hash' => false,
         ],
+
+        'admin' => [
+            'driver' => 'session',
+            'provider' => 'admins',
+        ],
+
+        'public' => [
+            'driver' => 'session',
+            'provider' => 'publics',
+        ],
     ],
 
     /*
@@ -67,6 +77,16 @@ return [
 
     'providers' => [
         'users' => [
+            'driver' => 'eloquent',
+            'model' => App\User::class,
+        ],
+        
+        'publics' => [
+            'driver' => 'eloquent',
+            'model' => Modules\LoginPublic\Entities\LoginPublic::class,
+        ],
+
+        'admins' => [
             'driver' => 'eloquent',
             'model' => App\User::class,
         ],

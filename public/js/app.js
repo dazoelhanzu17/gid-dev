@@ -21822,7 +21822,7 @@ Vue.use(vue_progressbar__WEBPACK_IMPORTED_MODULE_1___default.a, {
 });
 Vue.use(vue_loading_overlay__WEBPACK_IMPORTED_MODULE_2___default.a, {
   // props
-  color: 'blue',
+  color: 'orange',
   loader: 'dots'
 }, {// slots
 });

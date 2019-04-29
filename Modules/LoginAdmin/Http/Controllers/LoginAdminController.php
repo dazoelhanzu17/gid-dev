@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Routing\Controller;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
+use Auth;
 
 
 class LoginAdminController extends Controller
@@ -41,6 +42,7 @@ class LoginAdminController extends Controller
     public function __construct()
     {
         $this->middleware('guest')->except('logout');
+        $this->middleware('guest:admin')->except('logout');
         $this->username = $this->findUsername();
     }
 
@@ -68,6 +70,26 @@ class LoginAdminController extends Controller
 
     public function index()
     {
-        return view('loginadmin::index');
+        return view('loginadmin::index');   
+    }
+
+    /////
+    public function showAdminLoginForm()
+    {
+        return view('auth.login', ['url' => 'admin']);
+    }
+
+    public function adminLogin(Request $request)
+    {
+        $this->validate($request, [
+            'email'   => 'required|email',
+            'password' => 'required|min:6'
+        ]);
+
+        if (Auth::guard('admin')->attempt(['email' => $request->email, 'password' => $request->password], $request->get('remember'))) {
+
+            return redirect()->intended('/admin/home');
+        }
+        return back()->withInput($request->only('email', 'remember'));
     }
 }

@@ -4,10 +4,17 @@ namespace Modules\Users\Entities;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Foundation\Auth\User as Authenticatable;
+use Illuminate\Notifications\Notifiable;
 
-class User extends Model
-{
-    protected $fillable = ['name', 'email', 'username', 'password', 'hp', 'id_user_group'];
+class User extends Authenticatable
+{	
+	use Notifiable;
+	protected $guard = 'admin';
+	protected $fillable = ['name', 'email', 'username', 'password', 'hp', 'id_user_group'];
+	protected $hidden = [
+			'password', 'remember_token',
+	];
 
 
  	public static function menus(){
