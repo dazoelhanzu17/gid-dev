@@ -194,12 +194,12 @@
 					
 						<div class="dropdown-divider"></div>
 						<a href="#" class="dropdown-item"><i class="icon-cog5"></i> Account settings</a>
-						<a href="#" class="dropdown-item" href="{{ route('logout') }}"
+						<a href="#" class="dropdown-item" href="{{ route('logout.admin') }}"
 						onclick="event.preventDefault();
 													document.getElementById('logout-form').submit();">
 													<i class="icon-switch2"></i> Logout</a>
 
-						<form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+						<form id="logout-form" action="{{ route('logout.admin') }}" method="POST" style="display: none;">
 								@csrf
 						</form>
 					</div>

@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Auth;
 
-use App\User;
+use Modules\Users\Entities\User;
 use Modules\LoginPublic\Entities\LoginPublic;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Hash;
@@ -65,46 +65,46 @@ class RegisterController extends Controller
      * @param  array  $data
      * @return \App\User
      */
+    //  protected function createAdmin(Request $request)
+    //  {
+    //      $this->validator($request->all())->validate();
+    //      $user = User::create([
+    //          'name' => $request['name'],
+    //          'email' => $request['email'],
+    //          'password' => Hash::make($request['password']),
+    //      ]);
+    //      return redirect()->intended('loginadmin');
+    //  }
+
+     public function showAdminRegisterForm()
+     {
+         return view('auth.register', ['url' => 'admin']);
+     }
+ 
+     public function showWriterRegisterForm()
+     {
+         return view('auth.register', ['url' => 'writer']);
+     }
+
      protected function createAdmin(Request $request)
      {
          $this->validator($request->all())->validate();
-         $user = User::create([
+         $admin = User::create([
              'name' => $request['name'],
              'email' => $request['email'],
              'password' => Hash::make($request['password']),
          ]);
-         return redirect()->intended('loginadmin');
+         return redirect()->intended('login/admin');
      }
 
-    public function showAdminRegisterForm()
-    {
-        return view('auth.register', ['url' => 'admin']);
-    }
-
-    public function showPublicRegisterForm()
-    {
-        return view('auth.register', ['url' => 'public']);
-    }
-
-    protected function createUsePublic(Request $request)
-    {
-        $this->validator($request->all())->validate();
-        $writer = LoginPublic::create([
-            'name' => $request['name'],
-            'email' => $request['email'],
-            'password' => Hash::make($request['password']),
-        ]);
-        return redirect()->intended('login');
-    }
-
-    protected function createAdmin(Request $request)
-    {
-        $this->validator($request->all())->validate();
-        $admin = User::create([
-            'name' => $request['name'],
-            'email' => $request['email'],
-            'password' => Hash::make($request['password']),
-        ]);
-        return redirect()->intended('loginadmin');
-    }
+     protected function createWriter(Request $request)
+     {
+         $this->validator($request->all())->validate();
+         $writer = LoginPublic::create([
+             'name' => $request['name'],
+             'email' => $request['email'],
+             'password' => Hash::make($request['password']),
+         ]);
+         return redirect()->intended('login/writer');
+     }
 }

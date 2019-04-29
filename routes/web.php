@@ -15,22 +15,21 @@
 //     return view('welcome');
 // });
 
-// Auth::routes();
+Auth::routes();
 
-// Route::get('/loginadmin', 'Auth\LoginController@showAdminLoginForm');
 
-Route::get('/register/admin', 'Auth\RegisterController@showAdminRegisterForm');
+// Route::get('/login/public', 'Auth\LoginController@showPublicLoginForm');
+// Route::get('/register/admin', 'Auth\RegisterController@showAdminRegisterForm');
 Route::get('/register/writer', 'Auth\RegisterController@showWriterRegisterForm');
 
-Route::post('/login/admin', 'Auth\LoginController@adminLogin');
-Route::post('/login/writer', 'Auth\LoginController@writerLogin');
-Route::post('/register/admin', 'Auth\RegisterController@createAdmin');
+// Route::post('/login/admin', 'Auth\LoginController@adminLogin');
+// Route::post('/login/writer', 'Auth\LoginController@writerLogin');
+// Route::post('/register/admin', 'Auth\RegisterController@createAdmin');
 Route::post('/register/writer', 'Auth\RegisterController@createWriter');
 
-Route::view('/home', 'home')->middleware('auth');
-Route::view('/admin', 'admin');
-Route::view('/writer', 'writer');
-
+// Route::view('/home', 'home')->middleware('auth');
+// Route::view('/admin', 'admin');
+// Route::view('/writer', 'public');
 
 Route::get('/home', 'HomeController@index')->name('home');
 // Route::get('{path}', 'HomeController@index')->where( 'path', '([A-z\d-\/_.]+)?');
@@ -50,3 +49,6 @@ Route::get('/berita/{vue_capture?}', function () {
     return view('vue_app');
 })->where('vue_capture', '[\/\w\.-]*');
 // Route::get('{path}', 'HomeController@index')->where( 'path', '([A-z\d-\/_.]+)?');
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

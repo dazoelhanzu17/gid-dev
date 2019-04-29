@@ -25,6 +25,7 @@ class CreateBlogsTable extends Migration
             $table->string('link')->nullable();
             $table->integer('be_read')->unsigned()->nullable();
             $table->string('sys_user_name')->nullable();
+            $table->string('create_author')->nullable();
             $table->text('post_slug')->nullable();
             $table->timestamps();
         });

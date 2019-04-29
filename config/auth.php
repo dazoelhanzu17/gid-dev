@@ -88,7 +88,7 @@ return [
 
         'admins' => [
             'driver' => 'eloquent',
-            'model' => App\User::class,
+            'model' => Modules\Users\Entities\User::class,
         ],
 
         // 'users' => [

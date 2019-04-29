@@ -11,7 +11,7 @@ class LoginPublic extends Authenticatable
     use Notifiable;
 
     protected $guard = 'public';
-
+    protected $table = "public_users";
     protected $fillable = [
         'name', 'email', 'password',
     ];

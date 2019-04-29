@@ -11,8 +11,10 @@
 |
 */
 
-Route::prefix('loginadmin')->group(function() {
+Route::prefix('login/admin')->group(function() {
     Route::get('/', 'LoginAdminController@index');
 });
 
+
 Route::post('/login_act', 'LoginAdminController@login')->name('masuk');
+Route::post('/logout/admin', 'LoginAdminController@logout')->name('logout.admin');

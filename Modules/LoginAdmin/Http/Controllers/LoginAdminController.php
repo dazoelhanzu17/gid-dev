@@ -92,4 +92,9 @@ class LoginAdminController extends Controller
         }
         return back()->withInput($request->only('email', 'remember'));
     }
+
+    public function logout(Request $request) {
+        Auth::logout();
+        return redirect('/login/admin');
+      }
 }

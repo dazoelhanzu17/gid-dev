@@ -18,6 +18,7 @@ class LoginPublicController extends Controller
      */
     use AuthenticatesUsers;
     use ValidatesRequests;
+
     public function showPublicLoginForm()
     {
         return view('loginpublic::index', ['url' => 'public']);
@@ -26,14 +27,19 @@ class LoginPublicController extends Controller
     public function publicLogin(Request $request)
     {
         $this->validate($request, [
-            'email'   => 'required|email',
+            'login'   => 'required',
             'password' => 'required|min:6'
         ]);
 
-        if (Auth::guard('public')->attempt(['email' => $request->email, 'password' => $request->password], $request->get('remember'))) {
+        if (Auth::guard('public')->attempt(['email' => $request->login, 'password' => $request->password], $request->get('remember'))) {
 
             return redirect()->intended('/');
         }
-        return back()->withInput($request->only('email', 'remember'));
+        return back()->withInput($request->only('login', 'remember'));
+    }
+
+    public function logout(Request $request) {
+        Auth::logout();
+        return redirect('/');
     }
 }

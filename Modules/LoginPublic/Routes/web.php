@@ -15,6 +15,9 @@ Route::prefix('loginpublic')->group(function() {
     Route::get('/', 'LoginPublicController@index');
 });
 
-
-Route::get('/login', 'LoginPublicController@showPublicLoginForm')->name('login');
+Route::get('/login/public', 'LoginPublicController@showPublicLoginForm');
 Route::post('/login/public', 'LoginPublicController@publicLogin');
+
+Route::post('/logout/public', 'LoginPublicController@logout')->name('logout.public');
+
+// Route::post('/login/writer', 'Auth\LoginController@writerLogin');
