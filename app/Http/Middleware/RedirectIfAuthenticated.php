@@ -21,7 +21,7 @@ class RedirectIfAuthenticated
             return redirect('/admin');
         }
         if ($guard == "public" && Auth::guard($guard)->check()) {
-            return redirect('/writer');
+            return redirect('/');
         }
         if (Auth::guard($guard)->check()) {
             return redirect('/home');

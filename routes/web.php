@@ -15,7 +15,7 @@
 //     return view('welcome');
 // });
 
-Auth::routes();
+// Auth::routes();
 
 
 // Route::get('/login/public', 'Auth\LoginController@showPublicLoginForm');
