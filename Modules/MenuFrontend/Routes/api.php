@@ -18,4 +18,4 @@ Route::middleware('auth:api')->get('/menufrontend', function (Request $request) 
 });
 
 
-Route::get('frontend_menu_nav', 'API\TreeMenuFrontendController@frontend_menu_nav');
+Route::get('frontendnav', 'API\TreeMenuFrontendController@frontendnav');

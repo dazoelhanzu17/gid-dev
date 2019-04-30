@@ -79,101 +79,81 @@ class TreeMenuFrontendController extends BaseController
         //
     }
 
-    public function frontend_menu_nav(){
-       
-            $type = request()->segment(1);
-            $type_user = 1;
-            
-            $menunav = '';
-             $menus = DB::table('group_menus')
-                    ->leftJoin('menus', 'menus.id', '=', 'group_menus.id_menu')
-                    ->where('id_user_group', $type_user)
-                    ->select('group_menus.*', 'menus.*')
-                    ->orderBy('urutan', 'asc')
-                    ->get();
+    public function frontendnav(){
+
+             $menus = DB::table('menu_frontends')
+                        ->orderBy('urutan', 'asc')
+                        ->get();
           
               $i=0;
+              $menulist = [];
               foreach ($menus as $menu) {
-               if(toogle($menu->id_menu, $type_user) > 0 && $menu->parrent == 0){
-                  $menunav .= '<li class="nav-item nav-item-submenu">';
-                  $menunav .= '<a href="#" class="nav-link">
-                                  <i class="'.$menu->icon_menu.'"></i> 
-                                  <span>
-                                    '.$menu->nama_menu.'
-                                    
-                                    </span>
-                               </a>';
-          
-                  $menunav .=	formatTree($menu->id_menu, $type_user);
-                          $menunav .= "</li>";
-                          
-                          
+               if($this->toogle_frontend($menu->id) > 0 && $menu->parrent == 0){
+                $menulist[] = array(
+                    'id_menu'   => $menu->id,
+										'nama_menu' => $menu->nama_menu,
+										'link'			=> $menu->link,
+                    'child'     => $this->formatTree_frontend($menu->id)
+
+                );
+                     
                }else{
                  if($menu->parrent === 0){
-                   $menunav .= '<li class="nav-item">';
-                   $menunav .= '<a href="/'.$type.'/'.$menu->link.'" class="nav-link">
-                                  <i class="nav-icon '.$menu->icon_menu.'"></i>
-                                                          <span>
-                                  '.$menu->nama_menu.'
-                                  </span>
-                                                          </a>';
-                           $menunav .= "</li>";
+                     $menulist[] = array(
+                         'id_menu'  => $menu->id,
+												 'nama_menu'    => $menu->nama_menu,
+												 'link'			=> $menu->link,
+												 'child'		=> 0
+										 );
                   }
                }
           
                $i++;
               }
-              return $this->sendResponse((array)$menunav, 'Blog Retrieved successfully');
+              return $this->sendResponse((array)$menulist, 'Menu Retrieved successfully');
        
     }
 
-    function toogle($id_menu, $user_id_group){   
-        $menus = DB::table('menus')
-                  ->leftJoin('group_menus', 'group_menus.id_menu', '=', 'menus.id')
-                  ->where([
-                            ['id_user_group', '=', $user_id_group],
-                            ['parrent', '=', $id_menu],
-                         ])
-                  ->select('group_menus.*', 'menus.*')
+    function toogle_frontend($id_menu){   
+        $menus = DB::table('menu_frontends')
+                  ->where('parrent', $id_menu)
                   ->get();
     
           return $menus->count();
     }
 
-    function formatTree($id_parent,$user_id_group){
-        $type = request()->segment(1);
+    function formatTree_frontend($id_parent){
       
-        $menus = DB::table('menus')
-                    ->leftJoin('group_menus', 'group_menus.id_menu', '=', 'menus.id')
+        $menus = DB::table('menu_frontends')
                     ->where([
-                              ['id_user_group', '=', $user_id_group],
                               ['parrent', '=', $id_parent],
                            ])
-                    ->select('group_menus.*', 'menus.*')
                     ->orderBy('urutan', 'asc')
                     ->get();
-      
-        $menunav = '<ul class="nav nav-group-sub" data-submenu-title="Layouts">';
+        $menulist2 = [];
         foreach($menus as $item){
-            if(toogle($item->id_menu, $user_id_group) > 0){
-              $menunav .= '<li class="nav-item nav-item-submenu">';
-              $menunav .= '<a href="#" class="nav-link">
-                              <i class="nav-icon '.$item->icon_menu.'"></i>
-                                <span>'.$item->nama_menu.'</span>
-                           </a>';
-              $menunav.= formatTree($item->id_menu,$user_id_group);
-              $menunav.= "</li>";
-      
+            if($this->toogle_frontend($item->id) > 0){
+            
+                $menulist2[] = array(
+                    'id_menu'   => $item->id,
+										'nama_menu' => $item->nama_menu,
+										'link'			=> $item->link,
+                    'child'     => $this->formatTree_frontend($item->id)
+
+                );
             }else{
-              $menunav .= '<li class="nav-item">';
-              $menunav .= '<a href="/'.$type.'/'.$item->link.'" class="nav-link">';
-              $menunav .= '<i class="'.$item->icon_menu.' nav-icon "></i><p>'.$item->nama_menu.'</p></a>';
-              $menunav.= "</li>";
+              
+              $menulist2[] = array(
+								'id_menu'  => $item->id,
+								'nama_menu'    => $item->nama_menu,
+								'link'			=> $item->link,
+								'child'		=> 0
+							);
             }
         }
       
-        $menunav.= "</ul>";
-        return $menunav;
+
+        return $menulist2;
       }
       
     

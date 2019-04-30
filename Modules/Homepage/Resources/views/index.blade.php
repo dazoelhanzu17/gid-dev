@@ -1,4 +1,4 @@
-@extends('layouts.frontend.master')
+@extends('layouts.frontend.global_frontend')
 
 @section('content')
     <div class="container-fluid">

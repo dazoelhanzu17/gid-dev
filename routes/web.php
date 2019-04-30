@@ -16,7 +16,7 @@
 // });
 
 // Auth::routes();
-
+Auth::routes(['login' => false, 'register' => false]);
 
 // Route::get('/login/public', 'Auth\LoginController@showPublicLoginForm');
 // Route::get('/register/admin', 'Auth\RegisterController@showAdminRegisterForm');
@@ -51,4 +51,4 @@ Route::get('/berita/{vue_capture?}', function () {
 // Route::get('{path}', 'HomeController@index')->where( 'path', '([A-z\d-\/_.]+)?');
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+// Route::get('/home', 'HomeController@index')->name('home');
