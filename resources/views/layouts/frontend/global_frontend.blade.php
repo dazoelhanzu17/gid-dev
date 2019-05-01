@@ -23,7 +23,8 @@
     <!-- Body Inner -->    
     <div class="body-inner">
         <div id="app">
-               
+            <top-bar></top-bar>
+            <header-bar></header-bar>  
             <router-view></router-view>
             <vue-progress-bar></vue-progress-bar>
         </div>

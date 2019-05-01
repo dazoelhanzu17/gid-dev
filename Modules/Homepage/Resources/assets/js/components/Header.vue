@@ -88,9 +88,6 @@
             menus: '',
           }
         },
-
-       
-
         methods: {
 
           loadHeaderMenus(){

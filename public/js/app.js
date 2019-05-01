@@ -2903,11 +2903,9 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   mounted: function mounted() {
-    console.log('Component mounted.');
+    this.$nextTick(function () {});
   }
 });
 
@@ -7496,15 +7494,7 @@ var render = function() {
   var _c = _vm._self._c || _h
   return _c(
     "div",
-    [
-      _c("top-bar"),
-      _vm._v(" "),
-      _c("header-bar"),
-      _vm._v(" "),
-      _c("slider-section"),
-      _vm._v(" "),
-      _c("hightlight-section")
-    ],
+    [_c("slider-section"), _vm._v(" "), _c("hightlight-section")],
     1
   )
 }

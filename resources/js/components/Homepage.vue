@@ -1,7 +1,5 @@
 <template>
     <div>
-          <top-bar></top-bar>
-          <header-bar></header-bar>
           <slider-section></slider-section>
           <hightlight-section></hightlight-section>
     </div>
@@ -9,8 +7,13 @@
 
 <script>
     export default {
+     
         mounted() {
-            console.log('Component mounted.')
+           
+            this.$nextTick(function () {
+
+            })
+              
         }
     }
 </script>
