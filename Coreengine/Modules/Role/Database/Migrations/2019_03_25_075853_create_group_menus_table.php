@@ -17,7 +17,7 @@ class CreateGroupMenusTable extends Migration
             $table->increments('id');
             $table->integer('id_user_group');
             $table->integer('id_menu');
-            $table->string('role', 5);
+            $table->string('role', 5)->nullable();
             $table->timestamps();
         });
     }
