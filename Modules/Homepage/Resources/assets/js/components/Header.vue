@@ -1,82 +1,191 @@
 <template>
     <!-- <div> -->
-         <header id="header">
-                        <div class="header-inner">
-                            <div class="container">
-                                <!--Logo-->
-                                <div id="logo">
-                                    <a href="index.html" class="logo" data-src-dark="images/logo-kemendagri.png">
-                                        <img src="images/logo-kemendagri.png" alt="Polo Logo" style="padding: 5px 0px">
-                                    </a>
-                                </div>
-                                <!--End: Logo-->
-                
-                                                    <!-- Search -->
-                                <div id="search">
-                                    <div id="search-logo"><img src="images/logo-kemendagri.png" alt="Polo Logo"></div>
-                                    <button id="btn-search-close" class="btn-search-close" aria-label="Close search form"><i
-                                            class="icon-x"></i></button>
-                                    <form class="search-form" action="search-results-page.html" method="get">
-                                        <input class="form-control" name="q" type="search" placeholder="Search..."
-                                            autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
-                                        <span class="text-muted">Start typing & press "Enter" or "ESC" to close</span>
-                                    </form>
-                
-                                    <div class="search-suggestion-wrapper">
-                
-                
-                                        <div class="search-suggestion">
-                                            <h3>News Articles</h3>
-                                            <p><a href="#">Beautiful nature, and rare feathers!</a></p>
-                                            <p><a href="#">New costs and rise of the economy!</a></p>
-                                            <p><a href="#">A true story, that never been told!</a></p>
-                                        </div>
-                                        <div class="search-suggestion">
-                                            <h3>Looking for these?</h3>
-                                            <p><a href="#">New costs and rise of the economy!</a></p>
-                                            <p><a href="#">AI can be trusted to take answer calls </a></p>
-                                            <p><a href="#">Polo now lets you easily create any beautiful clean website</a></p>
-                                        </div>
-                                        <div class="search-suggestion">
-                                            <h3>Blog Posts</h3>
-                                            <p><a href="#">A true story, that never been told!</a></p>
-                                            <p><a href="#">Beautiful nature, and rare feathers!</a></p>
-                                            <p><a href="#">The most happiest time of the day!</a></p>
-                                        </div>
-                
-                
-                                    </div>
-                                </div>
-                                <!-- end: search -->
-                
-                                <!--Header Extras-->
-                                <div class="header-extras">
-                                    <ul>
-                                        <li>
-                                            <!--search icon-->
-                                            <a id="btn-search" href="#"> <i class="icon-search1"></i></a>
-                                            <!--end: search icon-->
-                                        </li>
-                                    </ul>
-                                </div>
-                                <!--end: Header Extras-->
-                
-                                <!--Navigation Resposnive Trigger-->
-                                <div id="mainMenu-trigger">
-                                    <button class="lines-button x"> <span class="lines"></span> </button>
-                                </div>
-                                <!--end: Navigation Resposnive Trigger-->
-                                  <!--Navigation-->
-                                  <div id="mainMenu" class="light">
-                                        <div class="container">
-                                            <nav v-html="menus">
-                                            </nav>
-                                        </div>
-                                    </div>
-                                    <!--end: Navigation-->
-                            </div>
-                        </div>
-                    </header>  
+         <header class="header">
+
+		<!-- Top Bar -->
+
+		<div class="top_bar">
+			<div class="container">
+				<div class="row">
+					<div class="col d-flex flex-row">
+					
+						<div class="top_bar_content ml-auto">
+							<div class="top_bar_menu">
+								<ul class="standard_dropdown top_bar_dropdown">
+									
+								</ul>
+							</div>
+							<div class="top_bar_user">
+								<div class="user_icon"><img src="frontend_assets/images/user.svg" alt=""></div>
+								<div><a href="#">Register</a></div>
+								<div><a href="#">Sign in</a></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>		
+		</div>
+
+		<!-- Header Main -->
+
+		<div class="header_main">
+			<div class="container">
+				<div class="row">
+
+					<!-- Logo -->
+					<div class="col-lg-2 col-sm-3 col-3 order-1">
+						<div class="logo_container">
+							<div class="logo"><a href="#">Grobak.id</a></div>
+						</div>
+					</div>
+
+					<!-- Search -->
+					<div class="col-lg-6 col-12 order-lg-2 order-3 text-lg-left text-right">
+						<div class="header_search">
+							<div class="header_search_content">
+								<div class="header_search_form_container">
+									<form action="#" class="header_search_form clearfix">
+										<input type="search" required="required" class="header_search_input" placeholder="Search for products...">
+										<div class="custom_dropdown">
+											<div class="custom_dropdown_list">
+												<span class="custom_dropdown_placeholder clc">All Categories</span>
+												<i class="fas fa-chevron-down"></i>
+												<ul class="custom_list clc">
+													<li><a class="clc" href="#">All Categories</a></li>
+													<li><a class="clc" href="#">Computers</a></li>
+													<li><a class="clc" href="#">Laptops</a></li>
+													<li><a class="clc" href="#">Cameras</a></li>
+													<li><a class="clc" href="#">Hardware</a></li>
+													<li><a class="clc" href="#">Smartphones</a></li>
+												</ul>
+											</div>
+										</div>
+										<button type="submit" class="header_search_button trans_300" value="Submit"><img src="frontend_assets/images/search.png" alt=""></button>
+									</form>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Wishlist -->
+					<div class="col-lg-4 col-9 order-lg-3 order-2 text-lg-left text-right">
+						<div class="wishlist_cart d-flex flex-row align-items-center justify-content-end">
+							<div class="wishlist d-flex flex-row align-items-center justify-content-end">
+								<div class="wishlist_icon"><img src="frontend_assets/images/heart.png'" alt=""></div>
+								<div class="wishlist_content">
+									<div class="wishlist_text"><a href="#">Wishlist</a></div>
+									<div class="wishlist_count">115</div>
+								</div>
+							</div>
+
+							<!-- Cart -->
+							<div class="cart">
+								<div class="cart_container d-flex flex-row align-items-center justify-content-end">
+									<div class="cart_icon">
+										<img src="frontend_assets/images/cart.png'" alt="">
+										<div class="cart_count"><span>10</span></div>
+									</div>
+									<div class="cart_content">
+										<div class="cart_text"><a href="#">Cart</a></div>
+										<div class="cart_price">$85</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!-- Main Navigation -->
+		
+		<!-- Menu -->
+
+		<div class="page_menu">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						
+						<div class="page_menu_content">
+							
+							<div class="page_menu_search">
+								<form action="#">
+									<input type="search" required="required" class="page_menu_search_input" placeholder="Search for products...">
+								</form>
+							</div>
+							<ul class="page_menu_nav">
+								<li class="page_menu_item has-children">
+									<a href="#">Language<i class="fa fa-angle-down"></i></a>
+									<ul class="page_menu_selection">
+										<li><a href="#">English<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">Italian<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">Spanish<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">Japanese<i class="fa fa-angle-down"></i></a></li>
+									</ul>
+								</li>
+								<li class="page_menu_item has-children">
+									<a href="#">Currency<i class="fa fa-angle-down"></i></a>
+									<ul class="page_menu_selection">
+										<li><a href="#">US Dollar<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">EUR Euro<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">GBP British Pound<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">JPY Japanese Yen<i class="fa fa-angle-down"></i></a></li>
+									</ul>
+								</li>
+								<li class="page_menu_item">
+									<a href="#">Home<i class="fa fa-angle-down"></i></a>
+								</li>
+								<li class="page_menu_item has-children">
+									<a href="#">Super Deals<i class="fa fa-angle-down"></i></a>
+									<ul class="page_menu_selection">
+										<li><a href="#">Super Deals<i class="fa fa-angle-down"></i></a></li>
+										<li class="page_menu_item has-children">
+											<a href="#">Menu Item<i class="fa fa-angle-down"></i></a>
+											<ul class="page_menu_selection">
+												<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
+												<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
+												<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
+												<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
+											</ul>
+										</li>
+										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
+									</ul>
+								</li>
+								<li class="page_menu_item has-children">
+									<a href="#">Featured Brands<i class="fa fa-angle-down"></i></a>
+									<ul class="page_menu_selection">
+										<li><a href="#">Featured Brands<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
+									</ul>
+								</li>
+								<li class="page_menu_item has-children">
+									<a href="#">Trending Styles<i class="fa fa-angle-down"></i></a>
+									<ul class="page_menu_selection">
+										<li><a href="#">Trending Styles<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
+										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
+									</ul>
+								</li>
+								<li class="page_menu_item"><a href="blog.html">blog<i class="fa fa-angle-down"></i></a></li>
+								<li class="page_menu_item"><a href="contact.html">contact<i class="fa fa-angle-down"></i></a></li>
+							</ul>
+							
+							<div class="menu_contact">
+								<div class="menu_contact_item"><div class="menu_contact_icon"><img src="frontend_assets/images/phone_white.png" alt=""></div>+38 068 005 3570</div>
+								<div class="menu_contact_item"><div class="menu_contact_icon"><img src="frontend_assets/images/mail_white.png" alt=""></div><a href="mailto:fastsales@gmail.com">fastsales@gmail.com</a></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</header>
     <!-- </div> -->
 </template>
 

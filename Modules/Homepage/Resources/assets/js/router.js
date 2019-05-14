@@ -22,4 +22,9 @@ export default function() {
     require('./components/Highlight.vue').default
   );
 
+  Vue.component(
+    'main-section',
+    require('./components/Main.vue').default
+  );
+
 }

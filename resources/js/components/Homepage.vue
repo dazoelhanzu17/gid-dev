@@ -1,7 +1,7 @@
 <template>
     <div>
-          <slider-section></slider-section>
-          <hightlight-section></hightlight-section>
+          <!-- <slider-section></slider-section>
+          <hightlight-section></hightlight-section> -->
     </div>
 </template>
 

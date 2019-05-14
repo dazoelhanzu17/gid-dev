@@ -278,8 +278,8 @@ section
 .top_bar
 {
 	width: 100%;
-	height: 56px;
-	background: #fafafa;
+	height: 25px;
+	background: #0e8ce4;
 	border-bottom: solid 1px rgba(0,0,0,0.05);
 	z-index: 2;
 }
@@ -304,7 +304,7 @@ section
 }
 .top_bar_contact_item a
 {
-	font-size: 16px;
+	font-size: 12px;
 	font-weight: 300;
 	line-height: 56px;
 	color: #000;
@@ -473,10 +473,10 @@ section
 }
 .top_bar_user a
 {
-	font-size: 16px;
+	font-size: 12px;
 	font-weight: 300;
-	line-height: 56px;
-	color: #000;
+	line-height: 25px;
+	color: #fff;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -494,6 +494,7 @@ section
 
 .header_main
 {
+	background-color: #0b6eb4;
 	z-index: 1;
 }
 .header.scrolled .header_main
@@ -511,7 +512,7 @@ section
 }
 .logo_container
 {
-	height: 175px;
+	height: 70px;
 }
 .logo
 {
@@ -526,11 +527,11 @@ section
 {
 	font-size: 36px;
 	font-weight: 500;
-	color: #0e8ce4;
+	color: yellow;
 }
 .header_search
 {
-	height: 175px;
+	height: 70px;
 }
 .header_search_content
 {
@@ -604,9 +605,10 @@ section
 .custom_dropdown
 {
 	width: calc((100% - 50px) * 0.399);
-	height: 50px;
+	height: 48px;
 	float: left;
 	padding-left: 26px;
+	background-color: #fff;
 }
 .custom_dropdown::before
 {
@@ -742,7 +744,7 @@ select option
 }
 .wishlist_cart
 {
-	height: 175px;
+	height: 70px;
 }
 .wishlist
 {
@@ -760,7 +762,7 @@ select option
 {
 	font-size: 18px;
 	font-weight: 400;
-	color: #000000;
+	color: #FFFFFF;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -784,7 +786,7 @@ select option
 	right: -14px;
 	width: 23px;
 	height: 23px;
-	background: #0e8ce4;
+	background: red;
 	border-radius: 50%;
 	text-align: center;
 }
@@ -812,7 +814,7 @@ select option
 {
 	font-size: 18px;
 	font-weight: 400;
-	color: #000000;
+	color: #fff;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
