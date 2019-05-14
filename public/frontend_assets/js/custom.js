@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* JS Document */
 
 /******************************
@@ -1031,13 +1031,4 @@ $(document).ready(function()
     	}	
     }
 });
-=======
-/* 
 
-1. Add your custom JavaScript code below
-2. Place the this code in your template:
-
-  
-
-*/
->>>>>>> 420b9d3b97c7afd420f6cb1ac16db4a99d675365
