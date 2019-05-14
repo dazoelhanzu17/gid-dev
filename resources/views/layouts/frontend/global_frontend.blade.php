@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 <title>Grobak</title>
 <meta charset="utf-8">
@@ -15,9 +16,11 @@
 <link rel="stylesheet" type="text/css" href="{{ asset('frontend_assets/styles/main_styles.css') }}">
 <link rel="stylesheet" type="text/css" href="{{ asset('frontend_assets/styles/responsive.css') }}">
 
+
 </head>
 
 <body>
+
 
 <div class="super_container">
 	
@@ -4556,3 +4559,4 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 </body>
 
 </html>
+
