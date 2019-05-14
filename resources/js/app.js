@@ -4,6 +4,8 @@ import Loading from 'vue-loading-overlay';
 import 'vue-loading-overlay/dist/vue-loading.css';
 import blogRoutes from '../../Modules/Blog/Resources/assets/js/router';
 import homePageComponent from '../../Modules/Homepage/Resources/assets/js/router';
+import profileRoutes from '../../Modules/ProfilePage/Resources/assets/js/router';
+
 
 window.Vue = require('vue');
 window.axios = require('axios');
@@ -23,7 +25,7 @@ const baseRoutes = [
     
   ]
 
-allRoutes = allRoutes.concat(baseRoutes, blogRoutes);
+allRoutes = allRoutes.concat(baseRoutes, blogRoutes, profileRoutes);
 const routes = allRoutes;
 
 const router = new VueRouter({
@@ -32,6 +34,7 @@ const router = new VueRouter({
 })
 
 homePageComponent();
+// profilePageComponent();
 
 Vue.use(VueProgressBar, {
     color: 'rgb(143, 255, 199)',

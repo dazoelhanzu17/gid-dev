@@ -246,6 +246,420 @@ var routes = [{
 
 /***/ }),
 
+/***/ "./Modules/Homepage/Resources/assets/js/components/Banner.vue":
+/*!********************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Banner.vue ***!
+  \********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Banner_vue_vue_type_template_id_ac193ed4___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Banner.vue?vue&type=template&id=ac193ed4& */ "./Modules/Homepage/Resources/assets/js/components/Banner.vue?vue&type=template&id=ac193ed4&");
+/* harmony import */ var _Banner_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Banner.vue?vue&type=script&lang=js& */ "./Modules/Homepage/Resources/assets/js/components/Banner.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Banner_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Banner_vue_vue_type_template_id_ac193ed4___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Banner_vue_vue_type_template_id_ac193ed4___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "Modules/Homepage/Resources/assets/js/components/Banner.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Banner.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Banner.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Banner_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Banner.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Banner.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Banner_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Banner.vue?vue&type=template&id=ac193ed4&":
+/*!***************************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Banner.vue?vue&type=template&id=ac193ed4& ***!
+  \***************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Banner_vue_vue_type_template_id_ac193ed4___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Banner.vue?vue&type=template&id=ac193ed4& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Banner.vue?vue&type=template&id=ac193ed4&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Banner_vue_vue_type_template_id_ac193ed4___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Banner_vue_vue_type_template_id_ac193ed4___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Banner2.vue":
+/*!*********************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Banner2.vue ***!
+  \*********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Banner2_vue_vue_type_template_id_d6df48e8___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Banner2.vue?vue&type=template&id=d6df48e8& */ "./Modules/Homepage/Resources/assets/js/components/Banner2.vue?vue&type=template&id=d6df48e8&");
+/* harmony import */ var _Banner2_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Banner2.vue?vue&type=script&lang=js& */ "./Modules/Homepage/Resources/assets/js/components/Banner2.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Banner2_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Banner2_vue_vue_type_template_id_d6df48e8___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Banner2_vue_vue_type_template_id_d6df48e8___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "Modules/Homepage/Resources/assets/js/components/Banner2.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Banner2.vue?vue&type=script&lang=js&":
+/*!**********************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Banner2.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Banner2_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Banner2.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Banner2.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Banner2_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Banner2.vue?vue&type=template&id=d6df48e8&":
+/*!****************************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Banner2.vue?vue&type=template&id=d6df48e8& ***!
+  \****************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Banner2_vue_vue_type_template_id_d6df48e8___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Banner2.vue?vue&type=template&id=d6df48e8& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Banner2.vue?vue&type=template&id=d6df48e8&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Banner2_vue_vue_type_template_id_d6df48e8___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Banner2_vue_vue_type_template_id_d6df48e8___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Bestseller.vue":
+/*!************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Bestseller.vue ***!
+  \************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Bestseller_vue_vue_type_template_id_0e09c166___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Bestseller.vue?vue&type=template&id=0e09c166& */ "./Modules/Homepage/Resources/assets/js/components/Bestseller.vue?vue&type=template&id=0e09c166&");
+/* harmony import */ var _Bestseller_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Bestseller.vue?vue&type=script&lang=js& */ "./Modules/Homepage/Resources/assets/js/components/Bestseller.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Bestseller_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Bestseller_vue_vue_type_template_id_0e09c166___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Bestseller_vue_vue_type_template_id_0e09c166___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "Modules/Homepage/Resources/assets/js/components/Bestseller.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Bestseller.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Bestseller.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Bestseller_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Bestseller.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Bestseller.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Bestseller_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Bestseller.vue?vue&type=template&id=0e09c166&":
+/*!*******************************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Bestseller.vue?vue&type=template&id=0e09c166& ***!
+  \*******************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Bestseller_vue_vue_type_template_id_0e09c166___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Bestseller.vue?vue&type=template&id=0e09c166& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Bestseller.vue?vue&type=template&id=0e09c166&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Bestseller_vue_vue_type_template_id_0e09c166___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Bestseller_vue_vue_type_template_id_0e09c166___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Characteristic.vue":
+/*!****************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Characteristic.vue ***!
+  \****************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Characteristic_vue_vue_type_template_id_028da185___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Characteristic.vue?vue&type=template&id=028da185& */ "./Modules/Homepage/Resources/assets/js/components/Characteristic.vue?vue&type=template&id=028da185&");
+/* harmony import */ var _Characteristic_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Characteristic.vue?vue&type=script&lang=js& */ "./Modules/Homepage/Resources/assets/js/components/Characteristic.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Characteristic_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Characteristic_vue_vue_type_template_id_028da185___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Characteristic_vue_vue_type_template_id_028da185___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "Modules/Homepage/Resources/assets/js/components/Characteristic.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Characteristic.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Characteristic.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Characteristic_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Characteristic.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Characteristic.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Characteristic_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Characteristic.vue?vue&type=template&id=028da185&":
+/*!***********************************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Characteristic.vue?vue&type=template&id=028da185& ***!
+  \***********************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Characteristic_vue_vue_type_template_id_028da185___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Characteristic.vue?vue&type=template&id=028da185& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Characteristic.vue?vue&type=template&id=028da185&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Characteristic_vue_vue_type_template_id_028da185___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Characteristic_vue_vue_type_template_id_028da185___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Deals.vue":
+/*!*******************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Deals.vue ***!
+  \*******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Deals_vue_vue_type_template_id_0a91a18d___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Deals.vue?vue&type=template&id=0a91a18d& */ "./Modules/Homepage/Resources/assets/js/components/Deals.vue?vue&type=template&id=0a91a18d&");
+/* harmony import */ var _Deals_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Deals.vue?vue&type=script&lang=js& */ "./Modules/Homepage/Resources/assets/js/components/Deals.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Deals_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Deals_vue_vue_type_template_id_0a91a18d___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Deals_vue_vue_type_template_id_0a91a18d___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "Modules/Homepage/Resources/assets/js/components/Deals.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Deals.vue?vue&type=script&lang=js&":
+/*!********************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Deals.vue?vue&type=script&lang=js& ***!
+  \********************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Deals_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Deals.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Deals.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Deals_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Deals.vue?vue&type=template&id=0a91a18d&":
+/*!**************************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Deals.vue?vue&type=template&id=0a91a18d& ***!
+  \**************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Deals_vue_vue_type_template_id_0a91a18d___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Deals.vue?vue&type=template&id=0a91a18d& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Deals.vue?vue&type=template&id=0a91a18d&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Deals_vue_vue_type_template_id_0a91a18d___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Deals_vue_vue_type_template_id_0a91a18d___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Featured.vue":
+/*!**********************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Featured.vue ***!
+  \**********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Featured_vue_vue_type_template_id_59a68818___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Featured.vue?vue&type=template&id=59a68818& */ "./Modules/Homepage/Resources/assets/js/components/Featured.vue?vue&type=template&id=59a68818&");
+/* harmony import */ var _Featured_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Featured.vue?vue&type=script&lang=js& */ "./Modules/Homepage/Resources/assets/js/components/Featured.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Featured_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Featured_vue_vue_type_template_id_59a68818___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Featured_vue_vue_type_template_id_59a68818___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "Modules/Homepage/Resources/assets/js/components/Featured.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Featured.vue?vue&type=script&lang=js&":
+/*!***********************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Featured.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Featured_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Featured.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Featured.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Featured_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Featured.vue?vue&type=template&id=59a68818&":
+/*!*****************************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Featured.vue?vue&type=template&id=59a68818& ***!
+  \*****************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Featured_vue_vue_type_template_id_59a68818___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Featured.vue?vue&type=template&id=59a68818& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Featured.vue?vue&type=template&id=59a68818&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Featured_vue_vue_type_template_id_59a68818___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Featured_vue_vue_type_template_id_59a68818___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
 /***/ "./Modules/Homepage/Resources/assets/js/components/Header.vue":
 /*!********************************************************************!*\
   !*** ./Modules/Homepage/Resources/assets/js/components/Header.vue ***!
@@ -384,6 +798,75 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./Modules/Homepage/Resources/assets/js/components/Hotnew.vue":
+/*!********************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Hotnew.vue ***!
+  \********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Hotnew_vue_vue_type_template_id_2210c7c6___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Hotnew.vue?vue&type=template&id=2210c7c6& */ "./Modules/Homepage/Resources/assets/js/components/Hotnew.vue?vue&type=template&id=2210c7c6&");
+/* harmony import */ var _Hotnew_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Hotnew.vue?vue&type=script&lang=js& */ "./Modules/Homepage/Resources/assets/js/components/Hotnew.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Hotnew_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Hotnew_vue_vue_type_template_id_2210c7c6___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Hotnew_vue_vue_type_template_id_2210c7c6___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "Modules/Homepage/Resources/assets/js/components/Hotnew.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Hotnew.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Hotnew.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Hotnew_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Hotnew.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Hotnew.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Hotnew_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Hotnew.vue?vue&type=template&id=2210c7c6&":
+/*!***************************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Hotnew.vue?vue&type=template&id=2210c7c6& ***!
+  \***************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Hotnew_vue_vue_type_template_id_2210c7c6___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Hotnew.vue?vue&type=template&id=2210c7c6& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Hotnew.vue?vue&type=template&id=2210c7c6&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Hotnew_vue_vue_type_template_id_2210c7c6___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Hotnew_vue_vue_type_template_id_2210c7c6___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
 /***/ "./Modules/Homepage/Resources/assets/js/components/Main.vue":
 /*!******************************************************************!*\
   !*** ./Modules/Homepage/Resources/assets/js/components/Main.vue ***!
@@ -448,6 +931,145 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Main_vue_vue_type_template_id_0a97e523___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Main_vue_vue_type_template_id_0a97e523___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Newsletter.vue":
+/*!************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Newsletter.vue ***!
+  \************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Newsletter_vue_vue_type_template_id_517b9ea3___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Newsletter.vue?vue&type=template&id=517b9ea3& */ "./Modules/Homepage/Resources/assets/js/components/Newsletter.vue?vue&type=template&id=517b9ea3&");
+/* harmony import */ var _Newsletter_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Newsletter.vue?vue&type=script&lang=js& */ "./Modules/Homepage/Resources/assets/js/components/Newsletter.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Newsletter_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Newsletter_vue_vue_type_template_id_517b9ea3___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Newsletter_vue_vue_type_template_id_517b9ea3___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "Modules/Homepage/Resources/assets/js/components/Newsletter.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Newsletter.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Newsletter.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Newsletter_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Newsletter.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Newsletter.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Newsletter_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Newsletter.vue?vue&type=template&id=517b9ea3&":
+/*!*******************************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Newsletter.vue?vue&type=template&id=517b9ea3& ***!
+  \*******************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Newsletter_vue_vue_type_template_id_517b9ea3___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Newsletter.vue?vue&type=template&id=517b9ea3& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Newsletter.vue?vue&type=template&id=517b9ea3&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Newsletter_vue_vue_type_template_id_517b9ea3___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Newsletter_vue_vue_type_template_id_517b9ea3___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Popular.vue":
+/*!*********************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Popular.vue ***!
+  \*********************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Popular_vue_vue_type_template_id_6d96865f___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Popular.vue?vue&type=template&id=6d96865f& */ "./Modules/Homepage/Resources/assets/js/components/Popular.vue?vue&type=template&id=6d96865f&");
+/* harmony import */ var _Popular_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Popular.vue?vue&type=script&lang=js& */ "./Modules/Homepage/Resources/assets/js/components/Popular.vue?vue&type=script&lang=js&");
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _Popular_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _Popular_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Popular_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Popular_vue_vue_type_template_id_6d96865f___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Popular_vue_vue_type_template_id_6d96865f___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "Modules/Homepage/Resources/assets/js/components/Popular.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Popular.vue?vue&type=script&lang=js&":
+/*!**********************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Popular.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Popular_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Popular.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Popular.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Popular_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./Modules/Homepage/Resources/assets/js/components/Popular.vue?vue&type=template&id=6d96865f&":
+/*!****************************************************************************************************!*\
+  !*** ./Modules/Homepage/Resources/assets/js/components/Popular.vue?vue&type=template&id=6d96865f& ***!
+  \****************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Popular_vue_vue_type_template_id_6d96865f___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Popular.vue?vue&type=template&id=6d96865f& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Popular.vue?vue&type=template&id=6d96865f&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Popular_vue_vue_type_template_id_6d96865f___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Popular_vue_vue_type_template_id_6d96865f___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 
@@ -606,7 +1228,102 @@ __webpack_require__.r(__webpack_exports__);
   Vue.component('slider-section', __webpack_require__(/*! ./components/Slider.vue */ "./Modules/Homepage/Resources/assets/js/components/Slider.vue").default);
   Vue.component('hightlight-section', __webpack_require__(/*! ./components/Highlight.vue */ "./Modules/Homepage/Resources/assets/js/components/Highlight.vue").default);
   Vue.component('main-section', __webpack_require__(/*! ./components/Main.vue */ "./Modules/Homepage/Resources/assets/js/components/Main.vue").default);
+  Vue.component('banner-section', __webpack_require__(/*! ./components/Banner.vue */ "./Modules/Homepage/Resources/assets/js/components/Banner.vue").default);
+  Vue.component('characteristic-section', __webpack_require__(/*! ./components/Characteristic.vue */ "./Modules/Homepage/Resources/assets/js/components/Characteristic.vue").default);
+  Vue.component('deals-section', __webpack_require__(/*! ./components/Deals.vue */ "./Modules/Homepage/Resources/assets/js/components/Deals.vue").default);
+  Vue.component('featured-section', __webpack_require__(/*! ./components/Featured.vue */ "./Modules/Homepage/Resources/assets/js/components/Featured.vue").default);
+  Vue.component('popular-section', __webpack_require__(/*! ./components/Popular.vue */ "./Modules/Homepage/Resources/assets/js/components/Popular.vue").default);
+  Vue.component('banner2-section', __webpack_require__(/*! ./components/Banner2.vue */ "./Modules/Homepage/Resources/assets/js/components/Banner2.vue").default);
+  Vue.component('hotnew-section', __webpack_require__(/*! ./components/Hotnew.vue */ "./Modules/Homepage/Resources/assets/js/components/Hotnew.vue").default);
+  Vue.component('bestseller-section', __webpack_require__(/*! ./components/Bestseller.vue */ "./Modules/Homepage/Resources/assets/js/components/Bestseller.vue").default);
+  Vue.component('newsletter-section', __webpack_require__(/*! ./components/Newsletter.vue */ "./Modules/Homepage/Resources/assets/js/components/Newsletter.vue").default);
 });
+
+/***/ }),
+
+/***/ "./Modules/ProfilePage/Resources/assets/js/components/Account.vue":
+/*!************************************************************************!*\
+  !*** ./Modules/ProfilePage/Resources/assets/js/components/Account.vue ***!
+  \************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Account_vue_vue_type_template_id_94925976___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Account.vue?vue&type=template&id=94925976& */ "./Modules/ProfilePage/Resources/assets/js/components/Account.vue?vue&type=template&id=94925976&");
+/* harmony import */ var _Account_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Account.vue?vue&type=script&lang=js& */ "./Modules/ProfilePage/Resources/assets/js/components/Account.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Account_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Account_vue_vue_type_template_id_94925976___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Account_vue_vue_type_template_id_94925976___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "Modules/ProfilePage/Resources/assets/js/components/Account.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./Modules/ProfilePage/Resources/assets/js/components/Account.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************************!*\
+  !*** ./Modules/ProfilePage/Resources/assets/js/components/Account.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Account_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Account.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/ProfilePage/Resources/assets/js/components/Account.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Account_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./Modules/ProfilePage/Resources/assets/js/components/Account.vue?vue&type=template&id=94925976&":
+/*!*******************************************************************************************************!*\
+  !*** ./Modules/ProfilePage/Resources/assets/js/components/Account.vue?vue&type=template&id=94925976& ***!
+  \*******************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Account_vue_vue_type_template_id_94925976___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../../node_modules/vue-loader/lib??vue-loader-options!./Account.vue?vue&type=template&id=94925976& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/ProfilePage/Resources/assets/js/components/Account.vue?vue&type=template&id=94925976&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Account_vue_vue_type_template_id_94925976___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Account_vue_vue_type_template_id_94925976___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./Modules/ProfilePage/Resources/assets/js/router.js":
+/*!***********************************************************!*\
+  !*** ./Modules/ProfilePage/Resources/assets/js/router.js ***!
+  \***********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+var routes = [{
+  path: '/account/profile',
+  component: __webpack_require__(/*! ./components/Account.vue */ "./Modules/ProfilePage/Resources/assets/js/components/Account.vue").default
+}];
+/* harmony default export */ __webpack_exports__["default"] = (routes);
 
 /***/ }),
 
@@ -2458,6 +3175,2391 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Banner.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Banner.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  mounted: function mounted() {
+    console.log('header mounted');
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Banner2.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Banner2.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  mounted: function mounted() {
+    console.log('banner2 mounted');
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Bestseller.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Bestseller.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  mounted: function mounted() {
+    console.log('bestseller mounted');
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Characteristic.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Characteristic.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  mounted: function mounted() {
+    console.log('characteristic mounted');
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Deals.vue?vue&type=script&lang=js&":
+/*!****************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Deals.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  mounted: function mounted() {
+    console.log('deals mounted');
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Featured.vue?vue&type=script&lang=js&":
+/*!*******************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Featured.vue?vue&type=script&lang=js& ***!
+  \*******************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  mounted: function mounted() {
+    console.log('fetured mounted');
+  }
+});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Header.vue?vue&type=script&lang=js&":
 /*!*****************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Header.vue?vue&type=script&lang=js& ***!
@@ -2842,6 +5944,1294 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Hotnew.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Hotnew.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  mounted: function mounted() {
+    console.log('hotnew mounted');
+  }
+});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Main.vue?vue&type=script&lang=js&":
 /*!***************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Main.vue?vue&type=script&lang=js& ***!
@@ -2863,6 +7253,136 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
   mounted: function mounted() {
     console.log('main mounted');
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Newsletter.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Newsletter.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  mounted: function mounted() {
+    console.log('newsletter mounted');
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Popular.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Popular.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  mounted: function mounted() {
+    console.log('Popular Mounted');
   }
 });
 
@@ -3034,6 +7554,29 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./Modules/ProfilePage/Resources/assets/js/components/Account.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./Modules/ProfilePage/Resources/assets/js/components/Account.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  mounted: function mounted() {
+    console.log('main mounted');
+  }
+});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Developer.vue?vue&type=script&lang=js&":
 /*!********************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Developer.vue?vue&type=script&lang=js& ***!
@@ -3101,6 +7644,13 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -6753,6 +11303,7450 @@ render._withStripped = true
 
 /***/ }),
 
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Banner.vue?vue&type=template&id=ac193ed4&":
+/*!*********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Banner.vue?vue&type=template&id=ac193ed4& ***!
+  \*********************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "banner" }, [
+        _c("div", {
+          staticClass: "banner_background",
+          staticStyle: {
+            "background-image":
+              "url(frontend_assets/images/banner_background.jpg)"
+          }
+        }),
+        _vm._v(" "),
+        _c("div", { staticClass: "container fill_height" }, [
+          _c("div", { staticClass: "row fill_height" }, [
+            _c("div", { staticClass: "banner_product_image" }, [
+              _c("img", {
+                attrs: {
+                  src: "frontend_assets/images/banner_product.png",
+                  alt: ""
+                }
+              })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-lg-5 offset-lg-4 fill_height" }, [
+              _c("div", { staticClass: "banner_content" }, [
+                _c("h1", { staticClass: "banner_text" }, [
+                  _vm._v("new era of smartphones")
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "banner_price" }, [
+                  _c("span", [_vm._v("$530")]),
+                  _vm._v("$460")
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "banner_product_name" }, [
+                  _vm._v("Apple Iphone 6s")
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "button banner_button" }, [
+                  _c("a", { attrs: { href: "#" } }, [_vm._v("Shop Now")])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Banner2.vue?vue&type=template&id=d6df48e8&":
+/*!**********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Banner2.vue?vue&type=template&id=d6df48e8& ***!
+  \**********************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "banner_2" }, [
+      _c("div", {
+        staticClass: "banner_2_background",
+        staticStyle: {
+          "background-image": "url(images/banner_2_background.jpg)"
+        }
+      }),
+      _vm._v(" "),
+      _c("div", { staticClass: "banner_2_container" }, [
+        _c("div", { staticClass: "banner_2_dots" }),
+        _vm._v(" "),
+        _c("div", { staticClass: "owl-carousel owl-theme banner_2_slider" }, [
+          _c("div", { staticClass: "owl-item" }, [
+            _c("div", { staticClass: "banner_2_item" }, [
+              _c("div", { staticClass: "container fill_height" }, [
+                _c("div", { staticClass: "row fill_height" }, [
+                  _c("div", { staticClass: "col-lg-4 col-md-6 fill_height" }, [
+                    _c("div", { staticClass: "banner_2_content" }, [
+                      _c("div", { staticClass: "banner_2_category" }, [
+                        _vm._v("Laptops")
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "banner_2_title" }, [
+                        _vm._v("MacBook Air 13")
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "banner_2_text" }, [
+                        _vm._v(
+                          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas fermentum laoreet."
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "div",
+                        { staticClass: "rating_r rating_r_4 banner_2_rating" },
+                        [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                      ),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "button banner_2_button" }, [
+                        _c("a", { attrs: { href: "#" } }, [_vm._v("Explore")])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-lg-8 col-md-6 fill_height" }, [
+                    _c("div", { staticClass: "banner_2_image_container" }, [
+                      _c("div", { staticClass: "banner_2_image" }, [
+                        _c("img", {
+                          attrs: {
+                            src: "frontend_assets/images/banner_2_product.png",
+                            alt: ""
+                          }
+                        })
+                      ])
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "owl-item" }, [
+            _c("div", { staticClass: "banner_2_item" }, [
+              _c("div", { staticClass: "container fill_height" }, [
+                _c("div", { staticClass: "row fill_height" }, [
+                  _c("div", { staticClass: "col-lg-4 col-md-6 fill_height" }, [
+                    _c("div", { staticClass: "banner_2_content" }, [
+                      _c("div", { staticClass: "banner_2_category" }, [
+                        _vm._v("Laptops")
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "banner_2_title" }, [
+                        _vm._v("MacBook Air 13")
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "banner_2_text" }, [
+                        _vm._v(
+                          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas fermentum laoreet."
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "div",
+                        { staticClass: "rating_r rating_r_4 banner_2_rating" },
+                        [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                      ),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "button banner_2_button" }, [
+                        _c("a", { attrs: { href: "#" } }, [_vm._v("Explore")])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-lg-8 col-md-6 fill_height" }, [
+                    _c("div", { staticClass: "banner_2_image_container" }, [
+                      _c("div", { staticClass: "banner_2_image" }, [
+                        _c("img", {
+                          attrs: {
+                            src: "frontend_assets/images/banner_2_product.png",
+                            alt: ""
+                          }
+                        })
+                      ])
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "owl-item" }, [
+            _c("div", { staticClass: "banner_2_item" }, [
+              _c("div", { staticClass: "container fill_height" }, [
+                _c("div", { staticClass: "row fill_height" }, [
+                  _c("div", { staticClass: "col-lg-4 col-md-6 fill_height" }, [
+                    _c("div", { staticClass: "banner_2_content" }, [
+                      _c("div", { staticClass: "banner_2_category" }, [
+                        _vm._v("Laptops")
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "banner_2_title" }, [
+                        _vm._v("MacBook Air 13")
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "banner_2_text" }, [
+                        _vm._v(
+                          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas fermentum laoreet."
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "div",
+                        { staticClass: "rating_r rating_r_4 banner_2_rating" },
+                        [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                      ),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "button banner_2_button" }, [
+                        _c("a", { attrs: { href: "#" } }, [_vm._v("Explore")])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-lg-8 col-md-6 fill_height" }, [
+                    _c("div", { staticClass: "banner_2_image_container" }, [
+                      _c("div", { staticClass: "banner_2_image" }, [
+                        _c("img", {
+                          attrs: {
+                            src: "frontend_assets/images/banner_2_product.png",
+                            alt: ""
+                          }
+                        })
+                      ])
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Bestseller.vue?vue&type=template&id=0e09c166&":
+/*!*************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Bestseller.vue?vue&type=template&id=0e09c166& ***!
+  \*************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "best_sellers" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col" }, [
+            _c("div", { staticClass: "tabbed_container" }, [
+              _c("div", { staticClass: "tabs clearfix tabs-right" }, [
+                _c("div", { staticClass: "new_arrivals_title" }, [
+                  _vm._v("Hot Best Sellers")
+                ]),
+                _vm._v(" "),
+                _c("ul", { staticClass: "clearfix" }, [
+                  _c("li", { staticClass: "active" }, [_vm._v("Top 20")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("Audio & Video")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("Laptops & Computers")])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "tabs_line" }, [_c("span")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "bestsellers_panel panel active" }, [
+                _c("div", { staticClass: "bestsellers_slider slider" }, [
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_1.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_2.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Samsung J730F...")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_3.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Nomi Black White")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_4.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Samsung Charm Gold")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_5.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Beoplay H7")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_6.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Huawei MediaPad T3")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_1.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_2.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_3.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_4.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_5.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_6.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "bestsellers_panel panel" }, [
+                _c("div", { staticClass: "bestsellers_slider slider" }, [
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_1.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_2.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_3.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_4.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_5.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_6.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_1.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_2.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_3.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_4.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_5.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_6.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "bestsellers_panel panel" }, [
+                _c("div", { staticClass: "bestsellers_slider slider" }, [
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_1.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_2.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_3.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_4.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_5.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_6.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_1.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_2.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_3.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_4.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item discount" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_5.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "bestsellers_item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "bestsellers_item_container d-flex flex-row align-items-center justify-content-start"
+                      },
+                      [
+                        _c("div", { staticClass: "bestsellers_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/best_6.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "bestsellers_content" }, [
+                          _c("div", { staticClass: "bestsellers_category" }, [
+                            _c("a", { attrs: { href: "#" } }, [
+                              _vm._v("Headphones")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "bestsellers_name" }, [
+                            _c("a", { attrs: { href: "product.html" } }, [
+                              _vm._v("Xiaomi Redmi Note 4")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 bestsellers_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "bestsellers_price discount" },
+                            [_vm._v("$225"), _c("span", [_vm._v("$300")])]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bestsellers_fav active" }, [
+                      _c("i", { staticClass: "fas fa-heart" })
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "bestsellers_marks" }, [
+                      _c(
+                        "li",
+                        {
+                          staticClass: "bestsellers_mark bestsellers_discount"
+                        },
+                        [_vm._v("-25%")]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "li",
+                        { staticClass: "bestsellers_mark bestsellers_new" },
+                        [_vm._v("new")]
+                      )
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Characteristic.vue?vue&type=template&id=028da185&":
+/*!*****************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Characteristic.vue?vue&type=template&id=028da185& ***!
+  \*****************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "characteristics" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-lg-3 col-md-6 char_col" }, [
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "char_item d-flex flex-row align-items-center justify-content-start"
+                },
+                [
+                  _c("div", { staticClass: "char_icon" }, [
+                    _c("img", {
+                      attrs: {
+                        src: "frontend_assets/images/char_1.png",
+                        alt: ""
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "char_content" }, [
+                    _c("div", { staticClass: "char_title" }, [
+                      _vm._v("Free Delivery")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "char_subtitle" }, [
+                      _vm._v("from $50")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-lg-3 col-md-6 char_col" }, [
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "char_item d-flex flex-row align-items-center justify-content-start"
+                },
+                [
+                  _c("div", { staticClass: "char_icon" }, [
+                    _c("img", {
+                      attrs: {
+                        src: "frontend_assets/images/char_2.png",
+                        alt: ""
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "char_content" }, [
+                    _c("div", { staticClass: "char_title" }, [
+                      _vm._v("Free Delivery")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "char_subtitle" }, [
+                      _vm._v("from $50")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-lg-3 col-md-6 char_col" }, [
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "char_item d-flex flex-row align-items-center justify-content-start"
+                },
+                [
+                  _c("div", { staticClass: "char_icon" }, [
+                    _c("img", {
+                      attrs: {
+                        src: "frontend_assets/images/char_3.png",
+                        alt: ""
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "char_content" }, [
+                    _c("div", { staticClass: "char_title" }, [
+                      _vm._v("Free Delivery")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "char_subtitle" }, [
+                      _vm._v("from $50")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-lg-3 col-md-6 char_col" }, [
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "char_item d-flex flex-row align-items-center justify-content-start"
+                },
+                [
+                  _c("div", { staticClass: "char_icon" }, [
+                    _c("img", {
+                      attrs: {
+                        src: "frontend_assets/images/char_4.png'",
+                        alt: ""
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "char_content" }, [
+                    _c("div", { staticClass: "char_title" }, [
+                      _vm._v("Free Delivery")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "char_subtitle" }, [
+                      _vm._v("from $50")
+                    ])
+                  ])
+                ]
+              )
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Deals.vue?vue&type=template&id=0a91a18d&":
+/*!********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Deals.vue?vue&type=template&id=0a91a18d& ***!
+  \********************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "deals_featured" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "col d-flex flex-lg-row flex-column align-items-center justify-content-start"
+            },
+            [_vm._m(0), _vm._v(" "), _c("featured-section")],
+            1
+          )
+        ])
+      ])
+    ])
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "deals" }, [
+      _c("div", { staticClass: "deals_title" }, [_vm._v("Deals of the Week")]),
+      _vm._v(" "),
+      _c("div", { staticClass: "deals_slider_container" }, [
+        _c("div", { staticClass: "owl-carousel owl-theme deals_slider" }, [
+          _c("div", { staticClass: "owl-item deals_item" }, [
+            _c("div", { staticClass: "deals_image" }, [
+              _c("img", {
+                attrs: { src: "frontend_assets/images/deals.png", alt: "" }
+              })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "deals_content" }, [
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "deals_info_line d-flex flex-row justify-content-start"
+                },
+                [
+                  _c("div", { staticClass: "deals_item_category" }, [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("Headphones")])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "deals_item_price_a ml-auto" }, [
+                    _vm._v("$300")
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "deals_info_line d-flex flex-row justify-content-start"
+                },
+                [
+                  _c("div", { staticClass: "deals_item_name" }, [
+                    _vm._v("Beoplay H7")
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "deals_item_price ml-auto" }, [
+                    _vm._v("$225")
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c("div", { staticClass: "available" }, [
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "available_line d-flex flex-row justify-content-start"
+                  },
+                  [
+                    _c("div", { staticClass: "available_title" }, [
+                      _vm._v("Available: "),
+                      _c("span", [_vm._v("6")])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "sold_title ml-auto" }, [
+                      _vm._v("Already sold: "),
+                      _c("span", [_vm._v("28")])
+                    ])
+                  ]
+                ),
+                _vm._v(" "),
+                _c("div", { staticClass: "available_bar" }, [
+                  _c("span", { staticStyle: { width: "17%" } })
+                ])
+              ]),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "deals_timer d-flex flex-row align-items-center justify-content-start"
+                },
+                [
+                  _c("div", { staticClass: "deals_timer_title_container" }, [
+                    _c("div", { staticClass: "deals_timer_title" }, [
+                      _vm._v("Hurry Up")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "deals_timer_subtitle" }, [
+                      _vm._v("Offer ends in:")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "deals_timer_content ml-auto" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass: "deals_timer_box clearfix",
+                        attrs: { "data-target-time": "" }
+                      },
+                      [
+                        _c("div", { staticClass: "deals_timer_unit" }, [
+                          _c("div", {
+                            staticClass: "deals_timer_hr",
+                            attrs: { id: "deals_timer1_hr" }
+                          }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("hours")])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "deals_timer_unit" }, [
+                          _c("div", {
+                            staticClass: "deals_timer_min",
+                            attrs: { id: "deals_timer1_min" }
+                          }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("mins")])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "deals_timer_unit" }, [
+                          _c("div", {
+                            staticClass: "deals_timer_sec",
+                            attrs: { id: "deals_timer1_sec" }
+                          }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("secs")])
+                        ])
+                      ]
+                    )
+                  ])
+                ]
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "owl-item deals_item" }, [
+            _c("div", { staticClass: "deals_image" }, [
+              _c("img", {
+                attrs: { src: "frontend_assets/images/deals.png", alt: "" }
+              })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "deals_content" }, [
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "deals_info_line d-flex flex-row justify-content-start"
+                },
+                [
+                  _c("div", { staticClass: "deals_item_category" }, [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("Headphones")])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "deals_item_price_a ml-auto" }, [
+                    _vm._v("$300")
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "deals_info_line d-flex flex-row justify-content-start"
+                },
+                [
+                  _c("div", { staticClass: "deals_item_name" }, [
+                    _vm._v("Beoplay H7")
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "deals_item_price ml-auto" }, [
+                    _vm._v("$225")
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c("div", { staticClass: "available" }, [
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "available_line d-flex flex-row justify-content-start"
+                  },
+                  [
+                    _c("div", { staticClass: "available_title" }, [
+                      _vm._v("Available: "),
+                      _c("span", [_vm._v("6")])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "sold_title ml-auto" }, [
+                      _vm._v("Already sold: "),
+                      _c("span", [_vm._v("28")])
+                    ])
+                  ]
+                ),
+                _vm._v(" "),
+                _c("div", { staticClass: "available_bar" }, [
+                  _c("span", { staticStyle: { width: "17%" } })
+                ])
+              ]),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "deals_timer d-flex flex-row align-items-center justify-content-start"
+                },
+                [
+                  _c("div", { staticClass: "deals_timer_title_container" }, [
+                    _c("div", { staticClass: "deals_timer_title" }, [
+                      _vm._v("Hurry Up")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "deals_timer_subtitle" }, [
+                      _vm._v("Offer ends in:")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "deals_timer_content ml-auto" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass: "deals_timer_box clearfix",
+                        attrs: { "data-target-time": "" }
+                      },
+                      [
+                        _c("div", { staticClass: "deals_timer_unit" }, [
+                          _c("div", {
+                            staticClass: "deals_timer_hr",
+                            attrs: { id: "deals_timer2_hr" }
+                          }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("hours")])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "deals_timer_unit" }, [
+                          _c("div", {
+                            staticClass: "deals_timer_min",
+                            attrs: { id: "deals_timer2_min" }
+                          }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("mins")])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "deals_timer_unit" }, [
+                          _c("div", {
+                            staticClass: "deals_timer_sec",
+                            attrs: { id: "deals_timer2_sec" }
+                          }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("secs")])
+                        ])
+                      ]
+                    )
+                  ])
+                ]
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "owl-item deals_item" }, [
+            _c("div", { staticClass: "deals_image" }, [
+              _c("img", {
+                attrs: { src: "frontend_assets/images/deals.png", alt: "" }
+              })
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "deals_content" }, [
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "deals_info_line d-flex flex-row justify-content-start"
+                },
+                [
+                  _c("div", { staticClass: "deals_item_category" }, [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("Headphones")])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "deals_item_price_a ml-auto" }, [
+                    _vm._v("$300")
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "deals_info_line d-flex flex-row justify-content-start"
+                },
+                [
+                  _c("div", { staticClass: "deals_item_name" }, [
+                    _vm._v("Beoplay H7")
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "deals_item_price ml-auto" }, [
+                    _vm._v("$225")
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c("div", { staticClass: "available" }, [
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "available_line d-flex flex-row justify-content-start"
+                  },
+                  [
+                    _c("div", { staticClass: "available_title" }, [
+                      _vm._v("Available: "),
+                      _c("span", [_vm._v("6")])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "sold_title ml-auto" }, [
+                      _vm._v("Already sold: "),
+                      _c("span", [_vm._v("28")])
+                    ])
+                  ]
+                ),
+                _vm._v(" "),
+                _c("div", { staticClass: "available_bar" }, [
+                  _c("span", { staticStyle: { width: "17%" } })
+                ])
+              ]),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "deals_timer d-flex flex-row align-items-center justify-content-start"
+                },
+                [
+                  _c("div", { staticClass: "deals_timer_title_container" }, [
+                    _c("div", { staticClass: "deals_timer_title" }, [
+                      _vm._v("Hurry Up")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "deals_timer_subtitle" }, [
+                      _vm._v("Offer ends in:")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "deals_timer_content ml-auto" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass: "deals_timer_box clearfix",
+                        attrs: { "data-target-time": "" }
+                      },
+                      [
+                        _c("div", { staticClass: "deals_timer_unit" }, [
+                          _c("div", {
+                            staticClass: "deals_timer_hr",
+                            attrs: { id: "deals_timer3_hr" }
+                          }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("hours")])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "deals_timer_unit" }, [
+                          _c("div", {
+                            staticClass: "deals_timer_min",
+                            attrs: { id: "deals_timer3_min" }
+                          }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("mins")])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "deals_timer_unit" }, [
+                          _c("div", {
+                            staticClass: "deals_timer_sec",
+                            attrs: { id: "deals_timer3_sec" }
+                          }),
+                          _vm._v(" "),
+                          _c("span", [_vm._v("secs")])
+                        ])
+                      ]
+                    )
+                  ])
+                ]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "deals_slider_nav_container" }, [
+        _c("div", { staticClass: "deals_slider_prev deals_slider_nav" }, [
+          _c("i", { staticClass: "fas fa-chevron-left ml-auto" })
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "deals_slider_next deals_slider_nav" }, [
+          _c("i", { staticClass: "fas fa-chevron-right ml-auto" })
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Featured.vue?vue&type=template&id=59a68818&":
+/*!***********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Featured.vue?vue&type=template&id=59a68818& ***!
+  \***********************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "featured" }, [
+      _c("div", { staticClass: "tabbed_container" }, [
+        _c("div", { staticClass: "tabs" }, [
+          _c("ul", { staticClass: "clearfix" }, [
+            _c("li", { staticClass: "active" }, [_vm._v("Featured")]),
+            _vm._v(" "),
+            _c("li", [_vm._v("On Sale")]),
+            _vm._v(" "),
+            _c("li", [_vm._v("Best Rated")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "tabs_line" }, [_c("span")])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "product_panel panel active" }, [
+          _c("div", { staticClass: "featured_slider slider" }, [
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item discount d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_1.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price discount" }, [
+                      _vm._v("$225"),
+                      _c("span", [_vm._v("$300")])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }, [
+                      _vm._v("-25%")
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_2.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Apple iPod shuffle")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "button",
+                        { staticClass: "product_cart_button active" },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_3.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Sony MDRZX310W")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item discount d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_4.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price discount" }, [
+                      _vm._v("$225"),
+                      _c("span", [_vm._v("$300")])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("LUNA Smartphone")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }, [
+                      _vm._v("-25%")
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_5.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Canon STM Kit...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_6.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Samsung J330F...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_7.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Lenovo IdeaPad")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }, [
+                      _vm._v("-25%")
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_8.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Digitus EDNET...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_1.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_2.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_3.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_4.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_5.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_6.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_7.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_8.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "featured_slider_dots_cover" })
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "product_panel panel" }, [
+          _c("div", { staticClass: "featured_slider slider" }, [
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item discount d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_1.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price discount" }, [
+                      _vm._v("$225"),
+                      _c("span", [_vm._v("$300")])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }, [
+                      _vm._v("-25%")
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_2.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Apple iPod shuffle")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "button",
+                        { staticClass: "product_cart_button active" },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_3.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Sony MDRZX310W")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item discount d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_4.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price discount" }, [
+                      _vm._v("$225"),
+                      _c("span", [_vm._v("$300")])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("LUNA Smartphone")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }, [
+                      _vm._v("-25%")
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_5.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Canon STM Kit...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_6.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Samsung J330F...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_7.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Lenovo IdeaPad")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }, [
+                      _vm._v("-25%")
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_8.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Digitus EDNET...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_1.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_2.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_3.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_4.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_5.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_6.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_7.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_8.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "featured_slider_dots_cover" })
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "product_panel panel" }, [
+          _c("div", { staticClass: "featured_slider slider" }, [
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item discount d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_1.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price discount" }, [
+                      _vm._v("$225"),
+                      _c("span", [_vm._v("$300")])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }, [
+                      _vm._v("-25%")
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_2.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Apple iPod shuffle")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "button",
+                        { staticClass: "product_cart_button active" },
+                        [_vm._v("Add to Cart")]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_3.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Sony MDRZX310W")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item discount d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_4.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price discount" }, [
+                      _vm._v("$225"),
+                      _c("span", [_vm._v("$300")])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("LUNA Smartphone")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }, [
+                      _vm._v("-25%")
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_5.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Canon STM Kit...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_6.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Samsung J330F...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_7.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Lenovo IdeaPad")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }, [
+                      _vm._v("-25%")
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_8.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Digitus EDNET...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_1.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_2.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_3.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_4.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_5.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_6.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_7.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$379")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "featured_slider_item" }, [
+              _c("div", { staticClass: "border_active" }),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "product_item d-flex flex-column align-items-center justify-content-center text-center"
+                },
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "product_image d-flex flex-column align-items-center justify-content-center"
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: "frontend_assets/images/featured_8.png",
+                          alt: ""
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_content" }, [
+                    _c("div", { staticClass: "product_price" }, [
+                      _vm._v("$225")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_name" }, [
+                      _c("div", [
+                        _c("a", { attrs: { href: "product.html" } }, [
+                          _vm._v("Huawei MediaPad...")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_extras" }, [
+                      _c("div", { staticClass: "product_color" }, [
+                        _c("input", {
+                          staticStyle: { background: "#b19c83" },
+                          attrs: {
+                            type: "radio",
+                            checked: "",
+                            name: "product_color"
+                          }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#000000" },
+                          attrs: { type: "radio", name: "product_color" }
+                        }),
+                        _vm._v(" "),
+                        _c("input", {
+                          staticStyle: { background: "#999999" },
+                          attrs: { type: "radio", name: "product_color" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "product_cart_button" }, [
+                        _vm._v("Add to Cart")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "product_fav" }, [
+                    _c("i", { staticClass: "fas fa-heart" })
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "product_marks" }, [
+                    _c("li", { staticClass: "product_mark product_discount" }),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "product_mark product_new" }, [
+                      _vm._v("new")
+                    ])
+                  ])
+                ]
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "featured_slider_dots_cover" })
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Header.vue?vue&type=template&id=5d502b77&":
 /*!*********************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Header.vue?vue&type=template&id=5d502b77& ***!
@@ -6974,7 +18968,7 @@ var staticRenderFns = [
                         _c("div", { staticClass: "wishlist_icon" }, [
                           _c("img", {
                             attrs: {
-                              src: "frontend_assets/images/heart.png'",
+                              src: "frontend_assets/images/heart.png",
                               alt: ""
                             }
                           })
@@ -7005,7 +18999,7 @@ var staticRenderFns = [
                           _c("div", { staticClass: "cart_icon" }, [
                             _c("img", {
                               attrs: {
-                                src: "frontend_assets/images/cart.png'",
+                                src: "frontend_assets/images/cart.png",
                                 alt: ""
                               }
                             }),
@@ -7648,6 +19642,4830 @@ render._withStripped = true
 
 /***/ }),
 
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Hotnew.vue?vue&type=template&id=2210c7c6&":
+/*!*********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Hotnew.vue?vue&type=template&id=2210c7c6& ***!
+  \*********************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "new_arrivals" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col" }, [
+            _c("div", { staticClass: "tabbed_container" }, [
+              _c("div", { staticClass: "tabs clearfix tabs-right" }, [
+                _c("div", { staticClass: "new_arrivals_title" }, [
+                  _vm._v("Hot New Arrivals")
+                ]),
+                _vm._v(" "),
+                _c("ul", { staticClass: "clearfix" }, [
+                  _c("li", { staticClass: "active" }, [_vm._v("Featured")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("Audio & Video")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("Laptops & Computers")])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "tabs_line" }, [_c("span")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row" }, [
+                _c(
+                  "div",
+                  { staticClass: "col-lg-9", staticStyle: { "z-index": "1" } },
+                  [
+                    _c("div", { staticClass: "product_panel panel active" }, [
+                      _c("div", { staticClass: "arrivals_slider slider" }, [
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_1.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Astro M2 Black")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c(
+                                  "li",
+                                  {
+                                    staticClass: "product_mark product_discount"
+                                  },
+                                  [_vm._v("-25%")]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_2.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Transcend T.Sonic")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    {
+                                      staticClass: "product_cart_button active"
+                                    },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_3.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Xiaomi Band 2...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_4.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Rapoo T8 White")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_5.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Philips BT6900A")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_6.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Nokia 3310(2017)...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_7.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Rapoo 7100p Gray")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c(
+                                  "li",
+                                  {
+                                    staticClass: "product_mark product_discount"
+                                  },
+                                  [_vm._v("-25%")]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_8.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Canon EF")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_1.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Gembird SPK-103")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_2.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Canon IXUS 175...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_3.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_4.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_5.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_6.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_7.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_8.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "arrivals_slider_dots_cover" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_panel panel" }, [
+                      _c("div", { staticClass: "arrivals_slider slider" }, [
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_1.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c(
+                                  "li",
+                                  {
+                                    staticClass: "product_mark product_discount"
+                                  },
+                                  [_vm._v("-25%")]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_2.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    {
+                                      staticClass: "product_cart_button active"
+                                    },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_3.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_4.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_5.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_6.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_7.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c(
+                                  "li",
+                                  {
+                                    staticClass: "product_mark product_discount"
+                                  },
+                                  [_vm._v("-25%")]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_8.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_1.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_2.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_3.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_4.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_5.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_6.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_7.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_8.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "arrivals_slider_dots_cover" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "product_panel panel" }, [
+                      _c("div", { staticClass: "arrivals_slider slider" }, [
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_1.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c(
+                                  "li",
+                                  {
+                                    staticClass: "product_mark product_discount"
+                                  },
+                                  [_vm._v("-25%")]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_2.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    {
+                                      staticClass: "product_cart_button active"
+                                    },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_3.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_4.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_5.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_6.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_7.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c(
+                                  "li",
+                                  {
+                                    staticClass: "product_mark product_discount"
+                                  },
+                                  [_vm._v("-25%")]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_8.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_1.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_2.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_3.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_4.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_5.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_6.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_7.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$379")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_slider_item" }, [
+                          _c("div", { staticClass: "border_active" }),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "product_item is_new d-flex flex-column align-items-center justify-content-center text-center"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "product_image d-flex flex-column align-items-center justify-content-center"
+                                },
+                                [
+                                  _c("img", {
+                                    attrs: {
+                                      src: "frontend_assets/images/new_8.jpg",
+                                      alt: ""
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_content" }, [
+                                _c("div", { staticClass: "product_price" }, [
+                                  _vm._v("$225")
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_name" }, [
+                                  _c("div", [
+                                    _c(
+                                      "a",
+                                      { attrs: { href: "product.html" } },
+                                      [_vm._v("Huawei MediaPad...")]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "product_extras" }, [
+                                  _c("div", { staticClass: "product_color" }, [
+                                    _c("input", {
+                                      staticStyle: { background: "#b19c83" },
+                                      attrs: {
+                                        type: "radio",
+                                        checked: "",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#000000" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    }),
+                                    _vm._v(" "),
+                                    _c("input", {
+                                      staticStyle: { background: "#999999" },
+                                      attrs: {
+                                        type: "radio",
+                                        name: "product_color"
+                                      }
+                                    })
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "button",
+                                    { staticClass: "product_cart_button" },
+                                    [_vm._v("Add to Cart")]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "product_fav" }, [
+                                _c("i", { staticClass: "fas fa-heart" })
+                              ]),
+                              _vm._v(" "),
+                              _c("ul", { staticClass: "product_marks" }, [
+                                _c("li", {
+                                  staticClass: "product_mark product_discount"
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "li",
+                                  { staticClass: "product_mark product_new" },
+                                  [_vm._v("new")]
+                                )
+                              ])
+                            ]
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "arrivals_slider_dots_cover" })
+                    ])
+                  ]
+                ),
+                _vm._v(" "),
+                _c("div", { staticClass: "col-lg-3" }, [
+                  _c("div", { staticClass: "arrivals_single clearfix" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "d-flex flex-column align-items-center justify-content-center"
+                      },
+                      [
+                        _c("div", { staticClass: "arrivals_single_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/new_single.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "arrivals_single_content" }, [
+                          _c(
+                            "div",
+                            { staticClass: "arrivals_single_category" },
+                            [
+                              _c("a", { attrs: { href: "#" } }, [
+                                _vm._v("Smartphones")
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "arrivals_single_name_container clearfix"
+                            },
+                            [
+                              _c(
+                                "div",
+                                { staticClass: "arrivals_single_name" },
+                                [
+                                  _c("a", { attrs: { href: "#" } }, [
+                                    _vm._v("LUNA Smartphone")
+                                  ])
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "arrivals_single_price text-right"
+                                },
+                                [_vm._v("$379")]
+                              )
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "rating_r rating_r_4 arrivals_single_rating"
+                            },
+                            [_c("i"), _c("i"), _c("i"), _c("i"), _c("i")]
+                          ),
+                          _vm._v(" "),
+                          _c("form", { attrs: { action: "#" } }, [
+                            _c(
+                              "button",
+                              { staticClass: "arrivals_single_button" },
+                              [_vm._v("Add to Cart")]
+                            )
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "arrivals_single_fav product_fav active"
+                          },
+                          [_c("i", { staticClass: "fas fa-heart" })]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "ul",
+                          {
+                            staticClass: "arrivals_single_marks product_marks"
+                          },
+                          [
+                            _c(
+                              "li",
+                              {
+                                staticClass:
+                                  "arrivals_single_mark product_mark product_new"
+                              },
+                              [_vm._v("new")]
+                            )
+                          ]
+                        )
+                      ]
+                    )
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Main.vue?vue&type=template&id=0a97e523&":
 /*!*******************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Main.vue?vue&type=template&id=0a97e523& ***!
@@ -7666,6 +24484,295 @@ var render = function() {
   return _c("div")
 }
 var staticRenderFns = []
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Newsletter.vue?vue&type=template&id=517b9ea3&":
+/*!*************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Newsletter.vue?vue&type=template&id=517b9ea3& ***!
+  \*************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "newsletter" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col" }, [
+            _c(
+              "div",
+              {
+                staticClass:
+                  "newsletter_container d-flex flex-lg-row flex-column align-items-lg-center align-items-center justify-content-lg-start justify-content-center"
+              },
+              [
+                _c("div", { staticClass: "newsletter_title_container" }, [
+                  _c("div", { staticClass: "newsletter_icon" }, [
+                    _c("img", {
+                      attrs: { src: "frontend_assets/images/send.png", alt: "" }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "newsletter_title" }, [
+                    _vm._v("Sign up for Newsletter")
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "newsletter_text" }, [
+                    _c("p", [
+                      _vm._v("...and receive %20 coupon for first shopping.")
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "newsletter_content clearfix" }, [
+                  _c(
+                    "form",
+                    { staticClass: "newsletter_form", attrs: { action: "#" } },
+                    [
+                      _c("input", {
+                        staticClass: "newsletter_input",
+                        attrs: {
+                          type: "email",
+                          required: "required",
+                          placeholder: "Enter your email address"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "newsletter_button" }, [
+                        _vm._v("Subscribe")
+                      ])
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "newsletter_unsubscribe_link" }, [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("unsubscribe")])
+                  ])
+                ])
+              ]
+            )
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/Homepage/Resources/assets/js/components/Popular.vue?vue&type=template&id=6d96865f&":
+/*!**********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./Modules/Homepage/Resources/assets/js/components/Popular.vue?vue&type=template&id=6d96865f& ***!
+  \**********************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "popular_categories" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-lg-3" }, [
+            _c("div", { staticClass: "popular_categories_content" }, [
+              _c("div", { staticClass: "popular_categories_title" }, [
+                _vm._v("Popular Categories")
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "popular_categories_slider_nav" }, [
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "popular_categories_prev popular_categories_nav"
+                  },
+                  [_c("i", { staticClass: "fas fa-angle-left ml-auto" })]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "popular_categories_next popular_categories_nav"
+                  },
+                  [_c("i", { staticClass: "fas fa-angle-right ml-auto" })]
+                )
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "popular_categories_link" }, [
+                _c("a", { attrs: { href: "#" } }, [_vm._v("full catalog")])
+              ])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-lg-9" }, [
+            _c("div", { staticClass: "popular_categories_slider_container" }, [
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "owl-carousel owl-theme popular_categories_slider"
+                },
+                [
+                  _c("div", { staticClass: "owl-item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "popular_category d-flex flex-column align-items-center justify-content-center"
+                      },
+                      [
+                        _c("div", { staticClass: "popular_category_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/popular_1.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "popular_category_text" }, [
+                          _vm._v("Smartphones & Tablets")
+                        ])
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "owl-item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "popular_category d-flex flex-column align-items-center justify-content-center"
+                      },
+                      [
+                        _c("div", { staticClass: "popular_category_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/popular_2.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "popular_category_text" }, [
+                          _vm._v("Computers & Laptops")
+                        ])
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "owl-item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "popular_category d-flex flex-column align-items-center justify-content-center"
+                      },
+                      [
+                        _c("div", { staticClass: "popular_category_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/popular_3.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "popular_category_text" }, [
+                          _vm._v("Gadgets")
+                        ])
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "owl-item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "popular_category d-flex flex-column align-items-center justify-content-center"
+                      },
+                      [
+                        _c("div", { staticClass: "popular_category_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/popular_4.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "popular_category_text" }, [
+                          _vm._v("Video Games & Consoles")
+                        ])
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "owl-item" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "popular_category d-flex flex-column align-items-center justify-content-center"
+                      },
+                      [
+                        _c("div", { staticClass: "popular_category_image" }, [
+                          _c("img", {
+                            attrs: {
+                              src: "frontend_assets/images/popular_5.png",
+                              alt: ""
+                            }
+                          })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "popular_category_text" }, [
+                          _vm._v("Accessories")
+                        ])
+                      ]
+                    )
+                  ])
+                ]
+              )
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -8005,6 +25112,39 @@ render._withStripped = true
 
 /***/ }),
 
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./Modules/ProfilePage/Resources/assets/js/components/Account.vue?vue&type=template&id=94925976&":
+/*!*************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./Modules/ProfilePage/Resources/assets/js/components/Account.vue?vue&type=template&id=94925976& ***!
+  \*************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "container" }, [
+      _c("h1", [_vm._v("Hello Bro")])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Developer.vue?vue&type=template&id=5932c622&":
 /*!************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Developer.vue?vue&type=template&id=5932c622& ***!
@@ -8102,7 +25242,23 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div")
+  return _c(
+    "div",
+    [
+      _c("banner-section"),
+      _vm._v(" "),
+      _c("characteristic-section"),
+      _vm._v(" "),
+      _c("deals-section"),
+      _vm._v(" "),
+      _c("popular-section"),
+      _vm._v(" "),
+      _c("banner2-section"),
+      _vm._v(" "),
+      _c("hotnew-section")
+    ],
+    1
+  )
 }
 var staticRenderFns = []
 render._withStripped = true
@@ -24036,6 +41192,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue_loading_overlay_dist_vue_loading_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(vue_loading_overlay_dist_vue_loading_css__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _Modules_Blog_Resources_assets_js_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../Modules/Blog/Resources/assets/js/router */ "./Modules/Blog/Resources/assets/js/router.js");
 /* harmony import */ var _Modules_Homepage_Resources_assets_js_router__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../Modules/Homepage/Resources/assets/js/router */ "./Modules/Homepage/Resources/assets/js/router.js");
+/* harmony import */ var _Modules_ProfilePage_Resources_assets_js_router__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../Modules/ProfilePage/Resources/assets/js/router */ "./Modules/ProfilePage/Resources/assets/js/router.js");
+
 
 
 
@@ -24053,14 +41211,15 @@ var baseRoutes = [{
   path: '/admin/developer',
   component: __webpack_require__(/*! ./components/Developer.vue */ "./resources/js/components/Developer.vue").default
 }];
-allRoutes = allRoutes.concat(baseRoutes, _Modules_Blog_Resources_assets_js_router__WEBPACK_IMPORTED_MODULE_4__["default"]);
+allRoutes = allRoutes.concat(baseRoutes, _Modules_Blog_Resources_assets_js_router__WEBPACK_IMPORTED_MODULE_4__["default"], _Modules_ProfilePage_Resources_assets_js_router__WEBPACK_IMPORTED_MODULE_6__["default"]);
 var routes = allRoutes;
 var router = new vue_router__WEBPACK_IMPORTED_MODULE_0__["default"]({
   mode: 'history',
   routes: routes // short for `routes: routes`
 
 });
-Object(_Modules_Homepage_Resources_assets_js_router__WEBPACK_IMPORTED_MODULE_5__["default"])();
+Object(_Modules_Homepage_Resources_assets_js_router__WEBPACK_IMPORTED_MODULE_5__["default"])(); // profilePageComponent();
+
 Vue.use(vue_progressbar__WEBPACK_IMPORTED_MODULE_1___default.a, {
   color: 'rgb(143, 255, 199)',
   failedColor: 'red',

@@ -1,7 +1,14 @@
 <template>
     <div>
-          <!-- <slider-section></slider-section>
-          <hightlight-section></hightlight-section> -->
+          <banner-section></banner-section>
+          <characteristic-section></characteristic-section>
+          <deals-section></deals-section>
+          <popular-section></popular-section>
+          <banner2-section></banner2-section>
+          <hotnew-section></hotnew-section>
+          <!-- <bestseller-section></bestseller-section> -->
+          <!-- <newsletter-section></newsletter-section> -->
+          <!-- <hightlight-section></hightlight-section> -->
     </div>
 </template>
 

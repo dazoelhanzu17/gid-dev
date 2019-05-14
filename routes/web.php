@@ -48,6 +48,8 @@ Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function(){
 Route::get('/berita/{vue_capture?}', function () {
     return view('vue_app');
 })->where('vue_capture', '[\/\w\.-]*');
+
+// Route::get('/account/{vue_capture?}', '\Modules\Homepage\Http\Controllers\HomepageController@index')->where('vue_capture', '[\/\w\.-]*');
 // Route::get('{path}', 'HomeController@index')->where( 'path', '([A-z\d-\/_.]+)?');
 Auth::routes();
 
