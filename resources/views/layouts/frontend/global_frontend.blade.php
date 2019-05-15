@@ -16,6 +16,29 @@
 <link rel="stylesheet" type="text/css" href="{{ asset('frontend_assets/styles/main_styles.css') }}">
 <link rel="stylesheet" type="text/css" href="{{ asset('frontend_assets/styles/responsive.css') }}">
 
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
+<link href="{{ asset('global_assets/css/icons/icomoon/styles.css') }}" rel="stylesheet" type="text/css">
+{{-- <link href="{{ asset('css/backend/bootstrap.min.css') }}" rel="stylesheet" type="text/css"> --}}
+<link href="{{ asset('css/backend/bootstrap_limitless.min.css') }}" rel="stylesheet" type="text/css">
+<link href="{{ asset('css/backend/layout.min.css') }}" rel="stylesheet" type="text/css">
+<link href="{{ asset('css/backend/components.min.css') }}" rel="stylesheet" type="text/css">
+<link href="{{ asset('css/backend/colors.min.css') }}" rel="stylesheet" type="text/css">
+<link rel="{{ asset('plugin/packageswlt/dist/sweetalert2.min.js') }}">
+<!-- /global stylesheets -->
+
+<!-- Core JS files -->
+<script src="{{ asset('global_assets/js/main/jquery.min.js') }}"></script>
+<script src="{{ asset('global_assets/js/main/bootstrap.bundle.min.js') }}"></script>
+<script src="{{ asset('global_assets/js/plugins/loaders/blockui.min.js') }}"></script>
+<!-- /core JS files -->
+
+<script src="{{ asset('global_assets/js/plugins/ui/prism.min.js') }}"></script>
+
+<style>
+	body {
+		background-color: rgb(245, 245, 245);
+	}
+</style>
 
 </head>
 

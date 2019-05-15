@@ -3519,7 +3519,8 @@ select option
 {
 	padding-top: 52px;
 	padding-bottom: 40px;
-	background-color: #f1f1f2;
+	background-color: #F1F1F4;
+	border-top: 5px solid #0b6eb4;
 }
 .footer .logo_container
 {
@@ -3659,4 +3660,18 @@ select option
 .logos_list li:last-child
 {
 	margin-right: 0px;
+}
+
+
+
+.card.noborder {
+	border: 0px;
+	box-shadow: none;
+	border-radius: 0px;
+}
+
+
+a.nav-link.active {
+	background-color: aliceblue;
+	border-left: 3px solid #0b6eb4;
 }
